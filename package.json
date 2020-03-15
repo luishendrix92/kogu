@@ -1,9 +1,10 @@
 {
   "name": "kogu",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Utility library primarily inspired by Clojure's standard library along with some convenient helper functions.",
   "main": "./dist/kogu.min.js",
   "types": "./dist/kogu.d.ts",
+  "files": ["/dist"],
   "repository": {
     "type": "git",
     "url": "https://github.com/luishendrix92/kogu"
@@ -14,8 +15,7 @@
     "build": "npm run dev && uglifyjs ./dist/kogu.js -o ./dist/kogu.min.js",
     "test": "npm run clean && jest && npm run clean",
     "test:coverage": "npm run clean && jest --coverage && npm run clean",
-    "clean": "rm -rf dist",
-    "prepare": "npm run test:coverage && npm run build"
+    "clean": "rm -rf dist"
   },
   "author": "Luis Lopez <hello@kozmicluis.com>",
   "license": "MIT",
