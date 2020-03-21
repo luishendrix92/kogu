@@ -127,3 +127,41 @@ export function isBlank(text: string): boolean {
 export function titleCase(text: string): string {
   return unwords(map(capitalize)(words(text)));
 }
+
+/**
+ * TODO: Implement caselessEq
+ * Case-insensitive equality test for two strings.
+ * @param leftStr  The first string to compare.
+ * @param rightStr The second string to compare.
+ */
+export function caselessEq(leftStr: string, rightStr: string): boolean {
+  return true;
+}
+
+/**
+ * TODO: Implement collapseWhiteSpace
+ * Adjacent whitespace characters become a single space.
+ * @param text
+ */
+export function collapseWhiteSpace(text: string): string {
+  return '';
+}
+
+/**
+ * TODO: Implement flipCase
+ * Converts lowercase characters into uppercase and viceversa.
+ * @param text
+ */
+export function flipCase(text: string): string {
+  return '';
+}
+
+/**
+ * TODO: Implement prune
+ * Truncates a string, doesn't exceed original length and
+ * ensures that there are no incomplete words.
+ * @param text
+ */
+export function prune(text: string): string {
+  return '';
+}

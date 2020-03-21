@@ -72,6 +72,10 @@ describe('surround', () => {
     expect(surround('<li>', '</li>')('item')).toBe('<li>item</li>');
     expect(surround('', '')('intact')).toBe('intact');
   });
+
+  it('should surround an empty string leaving only the surroundings', () => {
+    expect(surround('Left>', '<Right')('')).toBe('Left><Right');
+  });
 });
 
 describe('isBlank', () => {

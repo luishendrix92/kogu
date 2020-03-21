@@ -3,7 +3,8 @@ import { square } from './math';
 
 describe('map', () => {
   test('gives its callback the current element index', () => {
-    expect(map((_: string, i: number) => i)(['first', 'second'])).toEqual([0, 1]);
+    expect(map<string, number>((_, i) => i)(['first', 'second']))
+      .toEqual([0, 1]);
   });
 
   test('will not transform an empty list into something else', () => {
