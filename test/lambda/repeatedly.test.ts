@@ -1,0 +1,21 @@
+import {noop, repeatedly} from "../../src/lambda";
+import {randInt, sum} from "../../src/math";
+
+describe("repeatedly", () => {
+  it("should run a void function and produce a list of undefined values", () => {
+    expect(repeatedly(noop, 3)).toEqual([undefined, undefined, undefined]);
+  });
+
+  it("should be able to produce different random numbers", () => {
+    expect(sum(repeatedly(() => randInt(100, true), 2)))
+    .toBeLessThanOrEqual(200);
+  });
+
+  it("should return an empty list when argument 'times' is 0", () => {
+    expect(repeatedly(noop, 0)).toEqual([]);
+  });
+
+  it("should throw an error when attempting to run the function less than 0 times", () => {
+    expect(() => repeatedly(noop, -5)).toThrow();
+  });
+});

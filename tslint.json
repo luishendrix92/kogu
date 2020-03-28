@@ -7,7 +7,7 @@
   "rules": {
     "max-line-length": false,
     "array-type": false,
-    "quotemark": [true, "single", "avoid-escape", "avoid-template"],
+    "quotemark": [true, "double", "avoid-escape"],
     "no-console": [true, "log"],
     "object-literal-sort-keys": [false],
     "ordered-imports": [

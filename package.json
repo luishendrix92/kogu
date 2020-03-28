@@ -1,10 +1,12 @@
 {
   "name": "kogu",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Utility library primarily inspired by Clojure's standard library along with some convenient helper functions.",
   "main": "./dist/kogu.min.js",
   "types": "./dist/kogu.d.ts",
-  "files": ["/dist"],
+  "files": [
+    "/dist"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/luishendrix92/kogu"
@@ -15,18 +17,23 @@
     "build": "npm run dev && uglifyjs ./dist/kogu.js -o ./dist/kogu.min.js",
     "test": "npm run clean && jest && npm run clean",
     "test:coverage": "npm run clean && jest --coverage && npm run clean",
-    "clean": "rm -rf dist"
+    "clean": "rm -rf dist",
+    "docs": "./node_modules/.bin/esdoc"
   },
   "author": "Luis Lopez <hello@kozmicluis.com>",
   "license": "MIT",
+  "homepage": "PENDING",
   "devDependencies": {
     "@types/jest": "^23.3.7",
     "@types/ramda": "^0.26.43",
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
     "jest": "^23.6.0",
     "ramda": "^0.27.0",
     "ts-jest": "^23.10.4",
     "tslint": "^6.1.0",
     "typescript": "^3.8.3",
-    "uglify-js": "^3.4.9"
+    "uglify-js": "^3.4.9",
+    "esdoc-typescript-plugin": "^1.0.1"
   }
 }
