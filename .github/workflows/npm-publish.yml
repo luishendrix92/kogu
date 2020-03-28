@@ -18,10 +18,19 @@ jobs:
       run: npm install
     - name: Coverage tests with Jest
       run: npm run test:coverage
-    - name: Generate documentation with ESDoc
-      run: npm run docs
     - name: Compile library and run TSLint
       run: npm run build
+    - name: Generate documentation with ESDoc
+      if: success()
+      run: npm run docs
+    - name: Deploy docs to Github Pages
+      if: success()
+      uses: crazy-max/ghaction-github-pages@v1
+      with:
+        target_branch: gh-pages
+        build_dir: docs
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Publish if version has been updated
       uses: JS-DevTools/npm-publish@v1
       with:
