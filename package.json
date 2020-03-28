@@ -22,7 +22,7 @@
   },
   "author": "Luis Lopez <hello@kozmicluis.com>",
   "license": "MIT",
-  "homepage": "PENDING",
+  "homepage": "http://luishendrix92.github.io/kogu/",
   "devDependencies": {
     "@types/jest": "^23.3.7",
     "@types/ramda": "^0.26.43",
