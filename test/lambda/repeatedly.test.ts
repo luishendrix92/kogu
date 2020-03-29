@@ -18,4 +18,9 @@ describe("repeatedly", () => {
   it("should throw an error when attempting to run the function less than 0 times", () => {
     expect(() => repeatedly(noop, -5)).toThrow();
   });
+
+  it("should throw an error when the amount is decimal", () => {
+    expect(() => repeatedly(noop, 0.5)).toThrow();
+    expect(() => repeatedly(noop, 5.99)).toThrow();
+  });
 });

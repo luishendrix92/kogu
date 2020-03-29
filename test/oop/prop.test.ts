@@ -1,3 +1,4 @@
+import {range} from "../../src/math";
 import {prop} from "../../src/oop";
 
 const car = {
@@ -18,6 +19,7 @@ describe("prop", () => {
 
   it("should obtain prop value from known data type", () => {
     expect(prop("length")("lovecraft")).toBe(9);
+    expect(prop("length")(range(0, 3))).toBe(4);
   });
 
   it("should fetch a method for further invocation", () => {

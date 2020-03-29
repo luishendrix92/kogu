@@ -21,6 +21,14 @@ describe("lines", () => {
   it("should not trim empty lines at both ends when specified", () => {
     expect(lines("\nHello\n\n", false)).toEqual(["", "Hello", "", ""]);
   });
+
+  it("should also work with the return character", () => {
+    expect(lines("Return\rCharacter\r!")).toEqual(["Return", "Character", "!"]);
+  });
+
+  it("should return empty array from empty string", () => {
+    expect(lines("")).toHaveLength(0);
+  });
 });
 
 describe("words", () => {
@@ -28,10 +36,22 @@ describe("words", () => {
     expect(words("One two three")).toEqual(["One", "two", "three"]);
     expect(words(" | ")).toEqual(["", "|", ""]);
   });
+
+  it("should return empty array from empty string", () => {
+    expect(words("")).toHaveLength(0);
+  });
 });
 
 describe("chars", () => {
   it("should produce a list of characters given a string", () => {
     expect(chars("aEi ")).toEqual(["a", "E", "i", " "]);
+  });
+
+  it("should consider special characters as separate", () => {
+    expect(chars("\t\r\n")).toEqual(["\t", "\r", "\n"]);
+  });
+
+  it("should return empty array from empty string", () => {
+    expect(chars("")).toHaveLength(0);
   });
 });

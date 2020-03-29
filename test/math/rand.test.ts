@@ -19,4 +19,8 @@ describe("randInt", () => {
   it("should be able to have an inclusive limit", () => {
     expect(randInt(2, true)).toBeLessThanOrEqual(2);
   });
+
+  it("should work with negative integers.", () => {
+    expect(randInt(-5)).toBeGreaterThan(-5);
+  });
 });

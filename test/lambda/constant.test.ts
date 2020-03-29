@@ -20,4 +20,12 @@ describe("constant", () => {
 
     expect(map(zero)([1, 2])).toEqual([0, 0]);
   });
+
+  it("should validate the given example", () => {
+    const zero = constant(0);
+    const listOfZeros = map(zero)(Array(3));
+
+    expect(listOfZeros).toEqual([0, 0, 0]);
+    expect(constant(listOfZeros)()).toBe(listOfZeros);
+  });
 });

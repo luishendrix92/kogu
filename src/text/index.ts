@@ -1,4 +1,4 @@
-export { default as prune } from "./prune";
+export { default as trunc } from "./trunc";
 export { default as surround } from "./surround";
 
 export * from "./whitespace";

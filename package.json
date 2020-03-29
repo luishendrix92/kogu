@@ -1,6 +1,6 @@
 {
   "name": "kogu",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Utility library primarily inspired by Clojure's standard library along with some convenient helper functions.",
   "main": "./dist/kogu.min.js",
   "types": "./dist/kogu.d.ts",

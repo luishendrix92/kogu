@@ -4,6 +4,14 @@ describe("join", () => {
   it("should join a list by commas", () => {
     expect(join(", ")(["One", "Two", "Three"])).toBe("One, Two, Three");
   });
+
+  it("should return a singleton's only element", () => {
+    expect(join("-")(["SINGLETON"])).toBe("SINGLETON");
+  });
+
+  it("should return an empty string for an empty list", () => {
+    expect(join(" || ")([])).toBe("");
+  });
 });
 
 describe("unlines", () => {
@@ -18,6 +26,8 @@ describe("unwords", () => {
   it("should join a list of words into a full sentence", () => {
     expect(unwords(["Jest", "rocks!"])).toBe("Jest rocks!");
     expect(unwords(["", " both ends ", " "])).toBe("  both ends   ");
+    expect(unwords(["", "", "Trailing", "", "Space"]))
+      .toBe("  Trailing  Space");
   });
 });
 
