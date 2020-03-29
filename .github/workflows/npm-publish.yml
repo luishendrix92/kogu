@@ -19,7 +19,7 @@ jobs:
     - name: Coverage tests with Jest
       run: npm run test:coverage
     - name: Compile library and run TSLint
-      run: npm run build
+      run: npm run commonjs
     - name: Generate documentation with ESDoc
       if: success()
       run: npm run docs
