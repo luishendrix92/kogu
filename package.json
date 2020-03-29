@@ -1,9 +1,9 @@
 {
   "name": "kogu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility library primarily inspired by Clojure's standard library along with some convenient helper functions.",
-  "main": "./dist/kogu.min.js",
-  "types": "./dist/kogu.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "files": [
     "/dist"
   ],
@@ -12,9 +12,8 @@
     "url": "https://github.com/luishendrix92/kogu"
   },
   "scripts": {
-    "dev": "npm run tslint && tsc",
+    "commonjs": "npm run tslint && tsc",
     "tslint": "tslint --project .",
-    "build": "npm run dev && uglifyjs ./dist/kogu.js -o ./dist/kogu.min.js",
     "test": "npm run clean && jest && npm run clean",
     "test:coverage": "npm run clean && jest --coverage && npm run clean",
     "clean": "rm -rf dist",
