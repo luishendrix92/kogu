@@ -1,4 +1,4 @@
-import {dec, inc, neg, square} from "../../src/math";
+import {dec, inc, neg, square} from "../../src/";
 
 describe("dec", () => {
   it("should subtract 1 to a positive number", () => {

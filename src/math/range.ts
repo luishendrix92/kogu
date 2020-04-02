@@ -1,4 +1,4 @@
-import {map} from "../list";
+import {map} from "../";
 
 /**
  * @desc
@@ -19,7 +19,7 @@ import {map} from "../list";
  * @param {number} upperLimit - The last number that will appear on the array.
  * @return {number[]}         - An array of numbers that represents the range.
  */
-export default function range(lowerLimit: number, upperLimit: number): number[] {
+export function range(lowerLimit: number, upperLimit: number): number[] {
   const length: number = Math.abs(upperLimit - lowerLimit) + 1;
   const factor: number = lowerLimit > upperLimit ? -1 : 1;
   const result: number[] = new Array(length);

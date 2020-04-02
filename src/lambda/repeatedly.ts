@@ -1,4 +1,4 @@
-import {Producer} from "./types";
+import {Producer} from "../";
 
 /**
  * @desc
@@ -15,7 +15,7 @@ import {Producer} from "./types";
  * @param {number}        times  - Amount of times the callback will be run.
  * @return {T[]}                 - The collected results of each invocation.
  */
-export default function repeatedly<T>(effect: Producer<T>, times: number): T[] {
+export function repeatedly<T>(effect: Producer<T>, times: number): T[] {
   if (times < 0) {
     throw new Error('[repeatedly]: Argument "times" must not be negative.');
   } else if (times % 1 !== 0) {

@@ -1,3 +1,3 @@
-export { default as foldl } from "./foldl";
-export { default as map } from "./map";
-export { default as filter } from "./filter";
+export * from "./foldl";
+export * from "./map";
+export * from "./filter";

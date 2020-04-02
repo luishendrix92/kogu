@@ -14,7 +14,7 @@
  * @return {function(text: string): string}
  * A function that receives the text to surround.
  */
-export default function surround(left: string, right?: string) {
+export function surround(left: string, right?: string) {
   return function surround__(text: string): string {
     if (right === void 0) { right = left }
 

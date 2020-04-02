@@ -1,6 +1,4 @@
-import {comp, identity} from "../../src/lambda";
-import {foldl} from "../../src/list";
-import {dec, inc} from "../../src/math";
+import {comp, dec, foldl, identity, inc} from "../../src/";
 
 describe("foldl", () => {
   it("should accumulate arrays of different acumulable types", () => {

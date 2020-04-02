@@ -17,6 +17,6 @@
  * @param {T} value - The value to return.
  * @return {T}      - The value that you passed.
  */
-export default function identity<T>(value: T): T {
+export function identity<T>(value: T): T {
   return value;
 }

@@ -1,4 +1,4 @@
-import {range} from "../../src/math";
+import {range} from "../../src/";
 
 describe("range", () => {
   it("should create a range from 0 to N", () => {

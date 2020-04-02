@@ -1,5 +1,4 @@
-import {Predicate} from "../lambda";
-import {foldl} from "./index";
+import {foldl, Predicate} from "../";
 
 /**
  * @desc
@@ -24,7 +23,7 @@ import {foldl} from "./index";
  * @param {function(x: T, i: number): boolean} pred - Predicate callback function.
  * @return {function(xs: T[]): T[]}                 - A function that accepts the list.
  */
-export default function filter<T>(pred: Predicate<T>) {
+export function filter<T>(pred: Predicate<T>) {
   return function filter__(elements: T[]): T[] {
     return foldl<T[], T>((filtered, element, index) => {
       if (pred(element, index)) {

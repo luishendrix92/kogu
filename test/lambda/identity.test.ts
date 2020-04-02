@@ -1,4 +1,4 @@
-import {identity} from "../../src/lambda";
+import {identity} from "../../src/";
 
 describe("identity", () => {
   it("should return the same value/reference that was passed", () => {

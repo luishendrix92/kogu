@@ -1,5 +1,4 @@
-import {noop, repeatedly} from "../../src/lambda";
-import {randInt, sum} from "../../src/math";
+import {noop, randInt, repeatedly, sum} from "../../src/";
 
 describe("repeatedly", () => {
   it("should run a void function and produce a list of undefined values", () => {

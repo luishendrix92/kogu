@@ -1,4 +1,4 @@
-import {surround} from "../../src/text";
+import {surround} from "../../src/";
 
 describe("surround", () => {
   it("should add a given substring to the left and right", () => {

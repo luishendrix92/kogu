@@ -1,4 +1,4 @@
-import {isBlank, trim} from "../../src/text";
+import {isBlank, trim} from "../../src/";
 
 describe("isBlank", () => {
   it("should return false for strings with at least one non-whitespace character", () => {

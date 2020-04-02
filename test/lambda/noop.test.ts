@@ -1,5 +1,4 @@
-import {noop} from "../../src/lambda";
-import {map} from "../../src/list";
+import {map, noop} from "../../src";
 
 describe("noop", () => {
   it("should always return undefined with or without arguments", () => {

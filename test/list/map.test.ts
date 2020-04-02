@@ -1,6 +1,4 @@
-import {map} from "../../src/list";
-import {square} from "../../src/math";
-import {prop} from "../../src/oop";
+import {map, prop, square} from "../../src/";
 
 interface Person {
   name: string;
@@ -15,7 +13,7 @@ const people: Person[] = [
 describe("map", () => {
   test("gives its callback the current element index", () => {
     expect(map<string, number>((_, i) => i)(["first", "second"]))
-    .toEqual([0, 1]);
+      .toEqual([0, 1]);
   });
 
   test("will not transform an empty list into something else", () => {

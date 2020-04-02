@@ -1,4 +1,4 @@
-import {product, sum} from "../../src/math";
+import {product, sum} from "../../src/";
 
 describe("product", () => {
   it("should multiply a list of numbers", () => {

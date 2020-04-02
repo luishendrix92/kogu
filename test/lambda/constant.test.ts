@@ -1,5 +1,4 @@
-import {constant} from "../../src/lambda";
-import {map} from "../../src/list";
+import {constant, map} from "../../src/";
 
 describe("constant", () => {
   it("should always return the same value", () => {

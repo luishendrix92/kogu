@@ -1,4 +1,4 @@
-import {negate} from "../../src/lambda";
+import {negate} from "../../src/";
 
 describe("negate", () => {
   it("should flip the boolean result of Boolean", () => {

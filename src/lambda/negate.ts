@@ -14,7 +14,7 @@
  * @param {function(x: ...any): boolean} assertion - The variadic predicate function.
  * @return {function(y: ...any): boolean}          - The negated predicate function.
  */
-export default function negate<A extends any[]>(assertion: (...args: A) => boolean) {
+export function negate<A extends any[]>(assertion: (...args: A) => boolean) {
   return function negate__(...args: A): boolean {
     return !(assertion(...args));
   }

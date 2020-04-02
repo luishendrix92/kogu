@@ -21,7 +21,7 @@
  * @param {K extends PropertyKey}       key - The key matching the property.
  * @return {function(obj: Record<K, T>): T} - The value corresponding the property key.
  */
-export default function prop<K extends PropertyKey>(key: K) {
+export function prop<K extends PropertyKey>(key: K) {
   return function prop__<O extends Record<K, any>>(obj: O): O[K] {
     return obj[key];
   }

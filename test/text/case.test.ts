@@ -1,4 +1,4 @@
-import {capitalize, caselessEq, flipCase, titleCase} from "../../src/text";
+import {capitalize, caselessEq, flipCase, titleCase} from "../../src/";
 
 describe("capitalize", () => {
   it("should uppercase a single-character string", () => {

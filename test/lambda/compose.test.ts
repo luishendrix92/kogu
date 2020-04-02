@@ -1,6 +1,14 @@
-import {comp, pipe} from "../../src/lambda";
-import {dec, inc, square} from "../../src/math";
-import {split, unchars, unwords, words} from "../../src/text";
+import {
+  comp,
+  dec,
+  inc,
+  pipe,
+  split,
+  square,
+  unchars,
+  unwords,
+  words
+} from "../../src/";
 
 describe("compose", () => {
   it("should compose two or more functions of the same return type", () => {

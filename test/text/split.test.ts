@@ -1,4 +1,4 @@
-import {chars, lines, split, words} from "../../src/text";
+import {chars, lines, split, words} from "../../src/";
 
 describe("split", () => {
   it("should separate a list by commas", () => {

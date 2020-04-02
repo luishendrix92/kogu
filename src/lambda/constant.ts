@@ -11,7 +11,7 @@
  * @param {T} element      - The object or value that will be returned.
  * @return {function(): T} - A getter that produces the same result.
  */
-export default function constant<T>(element: T) {
+export function constant<T>(element: T) {
   return function constant__(): T {
     return element;
   }

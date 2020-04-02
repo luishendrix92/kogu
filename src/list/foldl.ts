@@ -24,7 +24,7 @@ import {Reducer} from "../lambda";
  * @param {R}                                    initial - Initial value for accumulation.
  * @return {function(xs: T[]): R}                        - A function that accepts the array.
  */
-export default function foldl<R, T>(reducer: Reducer<R, T>, initial: R) {
+export function foldl<R, T>(reducer: Reducer<R, T>, initial: R) {
   return function foldl__(elements: T[]): R {
     const length = elements.length;
     let reduced: R = initial;

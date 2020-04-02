@@ -1,5 +1,4 @@
-import {identity} from "../../src/lambda";
-import {filter} from "../../src/list";
+import {filter, identity} from "../../src/";
 
 describe("filter", () => {
   it("should keep the elements that match a predicate", () => {

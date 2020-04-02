@@ -1,4 +1,4 @@
-import {rand, randInt} from "../../src/math";
+import {rand, randInt} from "../../src/";
 
 describe("rand", () => {
   it("should return a value less than 1 when given no arguments", () => {
@@ -22,5 +22,18 @@ describe("randInt", () => {
 
   it("should work with negative integers.", () => {
     expect(randInt(-5)).toBeGreaterThan(-5);
+  });
+
+  it("should always return 0 when limit is 0", () => {
+    expect(randInt(0)).toBe(0);
+    expect(randInt(0, true)).toBe(0);
+  });
+
+  it("should always return 0 when limit is 1 and non-inclusive", () => {
+    expect(randInt(1)).toBe(0);
+  });
+
+  it("can deal with minus zero edge case", () => {
+    expect(randInt(-1)).not.toBe(-0);
   });
 });

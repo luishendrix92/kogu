@@ -1,5 +1,4 @@
-import {map} from "../list";
-import {chars, unchars, unwords, words} from "./index";
+import {chars, map, unchars, unwords, words} from "../";
 
 const ALPHA_PATTERN = /\W/g;
 

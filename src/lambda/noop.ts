@@ -8,6 +8,6 @@
  * @see https://en.wikipedia.org/wiki/Null_function
  * @return {undefined} - Has return type void.
  */
-export default function noop(): void {
+export function noop(): void {
   return undefined;
 }

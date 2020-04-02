@@ -20,7 +20,7 @@
  * @return {function(text: string): string}
  * A function that receives the string to truncate.
  */
-export default function trunc(limit: number, ending: string = "...") {
+export function trunc(limit: number, ending: string = "...") {
   return function trunc__(text: string): string {
     const [textLen, endingLen] = [text.length, ending.length];
 
@@ -34,4 +34,4 @@ export default function trunc(limit: number, ending: string = "...") {
       return text.slice(0, limit - endingLen) + ending;
     }
   }
-};
+}

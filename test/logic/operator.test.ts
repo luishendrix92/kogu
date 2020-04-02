@@ -1,4 +1,4 @@
-import {and, or} from "../../src/logic";
+import {and, or} from "../../src/";
 
 describe("and", () => {
   it("should follow the truth AND truth table with two arguments", () => {

@@ -1,4 +1,4 @@
-import {join, unchars, unlines, unwords} from "../../src/text";
+import {join, unchars, unlines, unwords} from "../../src/";
 
 describe("join", () => {
   it("should join a list by commas", () => {

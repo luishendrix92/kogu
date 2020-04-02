@@ -1,4 +1,4 @@
-import {trunc} from "../../src/text";
+import {trunc} from "../../src/";
 
 describe("trunc", () => {
   const text = "123456789";

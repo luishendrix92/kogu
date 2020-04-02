@@ -1,1 +1,3 @@
-export { default as prop } from "./prop";
+export * from "./prop";
+export * from "./assign";
+export * from "./assoc";

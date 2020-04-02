@@ -1,5 +1,4 @@
-import {Mapper} from "../lambda";
-import {foldl} from "./index";
+import {foldl, Mapper} from "../";
 
 /**
  * @desc
@@ -27,7 +26,7 @@ import {foldl} from "./index";
  * @param {function(x: A): B} mapper - Tertiary mapper function.
  * @return {function(xs: A[]): B[]}  - Function that accepts the list.
  */
-export default function map<A, B>(mapper: Mapper<A, B>) {
+export function map<A, B>(mapper: Mapper<A, B>) {
   return function map__(elements: A[]): B[] {
     return foldl<B[], A>((mapped, element, index) => {
       mapped.push(mapper(element, index));

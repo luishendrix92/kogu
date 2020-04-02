@@ -3,12 +3,53 @@
   "extends": [
     "tslint:recommended"
   ],
-  "jsRules": {},
+  "jsRules": {
+  },
   "rules": {
     "max-line-length": false,
-    "array-type": false,
+    "arrow-return-shorthand": true,
+    "binary-expression-operand-order": true,
+    "file-name-casing": [true, "camel-case"],
+    "completed-docs": [
+      true,
+      {
+        "functions": {
+          "visibilities": "exported"
+        }
+      }
+    ],
+    "await-promise": true,
+    "align": [true, "elements", "parameters"],
+    "eofline": true,
+    "import-spacing": true,
+    "newline-before-return": true,
+    "new-parens": true,
+    "number-literal-format": true,
+    "linebreak-style": [true, "LF"],
+    "indent": [true, "spaces", 2],
+    "space-before-function-paren": [
+      true,
+      {
+        "anonymous": "never",
+        "named": "never",
+        "asyncArrow": "always"
+      }
+    ],
+    "array-type": [true, "array-simple"],
+    "no-eval": true,
+    "no-conditional-assignment": true,
+    "no-var-keyword": true,
+    "restrict-plus-operands": true,
+    "switch-default": true,
+    "radix": true,
+    "prefer-conditional-expression": true,
+    "no-return-await": true,
+    "no-string-throw": true,
+    "curly": true,
     "quotemark": [true, "double", "avoid-escape"],
-    "no-console": [true, "log"],
+    "no-console": false,
+    "use-isnan": true,
+    "no-default-export": true,
     "object-literal-sort-keys": [false],
     "ordered-imports": [
       true,

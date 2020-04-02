@@ -1,5 +1,4 @@
-import {range} from "../../src/math";
-import {prop} from "../../src/oop";
+import {prop, range} from "../../src/";
 
 const car = {
   brand: "Ford", year: 2015,

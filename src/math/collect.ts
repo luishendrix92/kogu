@@ -1,4 +1,4 @@
-import {foldl} from "../list";
+import {foldl} from "../";
 
 /**
  * @desc

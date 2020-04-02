@@ -20,6 +20,12 @@ jobs:
       run: npm run test:coverage
     - name: Compile library and run TSLint
       run: npm run commonjs
+    - name: Minified bundles with Rollup
+      run: npm run bundle
+    - name: Publish if version has been updated
+      uses: JS-DevTools/npm-publish@v1
+      with:
+        token: ${{ secrets.NPM_AUTH_TOKEN }}
     - name: Generate documentation with ESDoc
       if: success()
       run: npm run docs
@@ -31,7 +37,3 @@ jobs:
         build_dir: docs
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Publish if version has been updated
-      uses: JS-DevTools/npm-publish@v1
-      with:
-        token: ${{ secrets.NPM_AUTH_TOKEN }}

@@ -1,4 +1,4 @@
-import {Func} from "./types";
+import {Func} from "../";
 
 export function comp<A, B, C, D, E, F>(f1: Func<E, F>, f2: Func<D, E>, f3: Func<C, D>, f4: Func<B, C>, f5: Func<A, B>): Func<A, F>;
 export function comp<A, B, C, D, E>(f1: Func<D, E>, f2: Func<C, D>, f3: Func<B, C>, f4: Func<A, B>): Func<A, E>;
