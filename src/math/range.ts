@@ -26,3 +26,31 @@ export function range(lowerLimit: number, upperLimit: number): number[] {
 
   return map((_, i) => lowerLimit + (factor * i))(result);
 }
+
+/**
+ * @desc
+ * Takes two numbers: a lower limit and an upper limit.
+ * Returns a predicate function that receives a number
+ * and checks if the number is contained in the range
+ * of `[a, b]` so both limits are inclusive, which
+ * means `>=` and `<=` are used to compare.
+ * @example
+ * inRange(0, 10)(5); //> true
+ * inRange(-1, 1)(2); //> false
+ * inRange(-5, -3)(-4); //> true
+ * inRange(5, 5)(5.01); //> false
+ * inRange(5, 0)(3); //> true
+ * @param {number} a - The lower limit (inclusive).
+ * @param {number} b - The upper limit (inclusive).
+ * @return {function(x: number): boolean}
+ * The predicate function that checks the range inclusion of x.
+ */
+export function inRange(a: number, b: number) {
+  return function inRange__(x: number): boolean {
+    if (a > b) {
+      [a, b] = [b, a];
+    }
+
+    return x >= a && x <= b;
+  }
+}

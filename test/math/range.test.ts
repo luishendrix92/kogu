@@ -1,4 +1,4 @@
-import {range} from "../../src/";
+import {inRange, range} from "../../src/";
 
 describe("range", () => {
   it("should create a range from 0 to N", () => {
@@ -31,5 +31,46 @@ describe("range", () => {
     expect(range(0, 0)).toEqual([0]);
     expect(range(0, -0)).toEqual([0]);
     expect(range(-5, -5)).toEqual([-5]);
+  });
+});
+
+describe("inRange", () => {
+  it("should test for 0 to positive range inclusion", () => {
+    expect(inRange(0, 5)(2.5)).toBeTruthy();
+    expect(inRange(0, 5)(0)).toBeTruthy();
+    expect(inRange(0, 5)(5)).toBeTruthy();
+    expect(inRange(0, 5)(-0.01)).toBeFalsy();
+    expect(inRange(0, 5)(5.01)).toBeFalsy();
+  });
+
+  it("should test for negative to 0 range inclusion", () => {
+    expect(inRange(-5, 0)(-2.5)).toBeTruthy();
+    expect(inRange(-5, 0)(0)).toBeTruthy();
+    expect(inRange(-5, 0)(-5)).toBeTruthy();
+    expect(inRange(-5, 0)(-5.01)).toBeFalsy();
+    expect(inRange(-5, 0)(0.01)).toBeFalsy();
+  });
+
+  it("should test for negative to positive range inclusion", () => {
+    expect(inRange(-5, 5)(0)).toBeTruthy();
+    expect(inRange(-5, 5)(-5)).toBeTruthy();
+    expect(inRange(-5, 5)(5)).toBeTruthy();
+    expect(inRange(-5, 5)(-5.01)).toBeFalsy();
+    expect(inRange(-5, 5)(5.01)).toBeFalsy();
+  });
+
+  it("should support both limits being the same", () => {
+    expect(inRange(5, 5)(5)).toBeTruthy();
+    expect(inRange(5, 5)(6)).toBeFalsy();
+    expect(inRange(5, 5)(4.99)).toBeFalsy();
+  });
+
+  it("should support both limits being inverted", () => {
+    expect(inRange(6, 4)(7)).toBeFalsy();
+    expect(inRange(6, 4)(5)).toBeTruthy();
+    expect(inRange(6, 4)(2)).toBeFalsy();
+    expect(inRange(-2, -6)(0)).toBeFalsy();
+    expect(inRange(-2, -6)(-1)).toBeFalsy();
+    expect(inRange(-2, -6)(-5)).toBeTruthy();
   });
 });
