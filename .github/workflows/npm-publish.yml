@@ -25,10 +25,8 @@ jobs:
       with:
         token: ${{ secrets.NPM_AUTH_TOKEN }}
     - name: Generate documentation with ESDoc
-      if: success()
       run: npm run docs
     - name: Deploy docs to Github Pages
-      if: success()
       uses: crazy-max/ghaction-github-pages@v1
       with:
         target_branch: gh-pages
