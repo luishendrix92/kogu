@@ -14,7 +14,6 @@
   },
   "scripts": {
     "commonjs": "npm run tslint && tsc",
-    "bundle": "rollup -c",
     "tslint": "tslint --project .",
     "test": "npm run clean && jest && npm run clean",
     "test:coverage": "npm run clean && jest --coverage && npm run clean",
@@ -25,22 +24,15 @@
   "license": "MIT",
   "homepage": "http://luishendrix92.github.io/kogu/",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^11.0.2",
-    "@rollup/plugin-node-resolve": "^7.1.1",
-    "@rollup/plugin-typescript": "^4.0.0",
-    "@types/jest": "^23.3.7",
-    "@types/lodash": "^4.14.149",
+    "@types/jest": "^25.2.1",
     "@types/ramda": "^0.26.43",
     "esdoc": "^1.1.0",
     "esdoc-standard-plugin": "^1.0.0",
     "esdoc-typescript-plugin": "^1.0.1",
     "jest": "^23.6.0",
-    "lodash": "^4.17.15",
     "ramda": "^0.27.0",
-    "rollup": "^2.3.0",
-    "rollup-plugin-terser": "^5.3.0",
     "ts-jest": "^23.10.4",
-    "tslint": "^6.1.0",
+    "tslint": "^6.1.1",
     "typescript": "^3.8.3"
   }
 }
