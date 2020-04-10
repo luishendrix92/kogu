@@ -1,0 +1,3979 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/index.ts",
+    "content": "export * from \"./lambda\";\nexport * from \"./list\";\nexport * from \"./logic\";\nexport * from \"./math\";\nexport * from \"./oop\";\nexport * from \"./text\";\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/index.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "file",
+    "name": "src/lambda/compose.ts",
+    "content": "import {Func} from \"../\";\n\nexport function comp<A, B, C, D, E, F>(f1: Func<E, F>, f2: Func<D, E>, f3: Func<C, D>, f4: Func<B, C>, f5: Func<A, B>): Func<A, F>;\nexport function comp<A, B, C, D, E>(f1: Func<D, E>, f2: Func<C, D>, f3: Func<B, C>, f4: Func<A, B>): Func<A, E>;\nexport function comp<A, B, C, D>(f1: Func<C, D>, f2: Func<B, C>, f3: Func<A, B>): Func<A, D>;\nexport function comp<A, B, C>(f1: Func<B, C>, f2: Func<A, B>): Func<A, C>;\nexport function comp<A, B>(f1: Func<A, B>): Func<A, B>;\n/**\n * @desc\n * Right to left function composition (limited to 5 functions).\n * Returns a function that accepts a single value (the parameter of\n * the last function) and returns the return value of the first one.\n *\n * The formal type signature is `(y->z, ..., b->c, a->b)->(a->z)`.\n * @example\n * const introduce = comp((y: string) => \"I am \" + y, prop(\"name\"));\n *\n * introduce({ name: \"Ironman\", age: 38 }) //> \"I am Ironman\"\n * comp(unchars, reverse, chars)(\"Arkham\") //> \"mahkrA\"\n * comp(identity)([1, 2, 3]) //> [1, 2, 3]\n * comp(inc, square)(5) //> 26\n * @todo Implement with custom foldr\n * @see {@link pipe}\n * @param {...function} funcs - Unary functions as individual arguments.\n * @return {function}         - The composed unary function.\n */\nexport function comp<A>(...funcs: any[]) {\n  return function comp__(x: A) {\n    return funcs.reduceRight((acc, f) => f(acc), x);\n  }\n}\n\nexport function pipe<A, B, C, D, E, F>(f1: Func<A, B>, f2: Func<B, C>, f3: Func<C, D>, f4: Func<D, E>, f5: Func<E, F>): Func<A, F>;\nexport function pipe<A, B, C, D, E>(f1: Func<A, B>, f2: Func<B, C>, f3: Func<C, D>, f4: Func<D, E>): Func<A, E>;\nexport function pipe<A, B, C, D>(f1: Func<A, B>, f2: Func<B, C>, f3: Func<C, D>): Func<A, D>;\nexport function pipe<A, B, C>(f1: Func<A, B>, f2: Func<B, C>): Func<A, C>;\nexport function pipe<A, B>(f1: Func<A, B>): Func<A, B>;\n/**\n * @desc\n * Left to right function composition (limited to 5 functions).\n * Returns a function that accepts a single value (the parameter of\n * the first function) and returns the return value of the last one.\n * Serves the same purpose as `comp` but in reverse order.\n *\n * The formal type signature is `(a->b, b->c, ..., y->z)->(a->z)`.\n * @example\n * const players = [{ pts: 240 }, { pts: 999 }, { pts: 501 }];\n *\n * pipe(\n *  map(prop(\"pts\")),\n *  filter(gt(500)),\n *  sum\n * )(players); //> 1500\n * @todo Implement with custom foldl\n * @see {@link comp}\n * @param {...function} pipeline - Unary functions as individual arguments.\n * @return {function}            - The composed unary pipeline function.\n */\nexport function pipe<A>(...pipeline: any[]) {\n  return function pipe__(x: A) {\n    return pipeline.reduce((acc, f) => f(acc), x);\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/compose.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "comp",
+    "memberof": "src/lambda/compose.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/compose.ts~comp",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/compose.ts",
+    "importStyle": "{comp}",
+    "description": "Right to left function composition (limited to 5 functions).\nReturns a function that accepts a single value (the parameter of\nthe last function) and returns the return value of the first one.\n\nThe formal type signature is `(y->z, ..., b->c, a->b)->(a->z)`.",
+    "examples": [
+      "const introduce = comp((y: string) => \"I am \" + y, prop(\"name\"));\n\nintroduce({ name: \"Ironman\", age: 38 }) //> \"I am Ironman\"\ncomp(unchars, reverse, chars)(\"Arkham\") //> \"mahkrA\"\ncomp(identity)([1, 2, 3]) //> [1, 2, 3]\ncomp(inc, square)(5) //> 26"
+    ],
+    "see": [
+      "{@link pipe}"
+    ],
+    "lineNumber": 28,
+    "todo": [
+      "Implement with custom foldr"
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "...function"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "funcs",
+        "description": "Unary functions as individual arguments."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function"
+      ],
+      "spread": false,
+      "description": "The composed unary function."
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "pipe",
+    "memberof": "src/lambda/compose.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/compose.ts~pipe",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/compose.ts",
+    "importStyle": "{pipe}",
+    "description": "Left to right function composition (limited to 5 functions).\nReturns a function that accepts a single value (the parameter of\nthe first function) and returns the return value of the last one.\nServes the same purpose as `comp` but in reverse order.\n\nThe formal type signature is `(a->b, b->c, ..., y->z)->(a->z)`.",
+    "examples": [
+      "const players = [{ pts: 240 }, { pts: 999 }, { pts: 501 }];\n\npipe(\n map(prop(\"pts\")),\n filter(gt(500)),\n sum\n)(players); //> 1500"
+    ],
+    "see": [
+      "{@link comp}"
+    ],
+    "lineNumber": 62,
+    "todo": [
+      "Implement with custom foldl"
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "...function"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "pipeline",
+        "description": "Unary functions as individual arguments."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function"
+      ],
+      "spread": false,
+      "description": "The composed unary pipeline function."
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/lambda/constant.ts",
+    "content": "/**\n * @desc\n * Accepts any arbitrary object or value and returns a\n * function that will always return said object every\n * time it gets called regardless of its arguments.\n * @example\n * const zero = constant(0);\n * const listOfZeros = map(zero)(Array(3)); //> [0, 0, 0]\n *\n * constant(listOfZeros)() === listOfZeros //> true\n * @param {T} element      - The object or value that will be returned.\n * @return {function(): T} - A getter that produces the same result.\n */\nexport function constant<T>(element: T) {\n  return function constant__(): T {\n    return element;\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/constant.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "constant",
+    "memberof": "src/lambda/constant.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/constant.ts~constant",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/constant.ts",
+    "importStyle": "{constant}",
+    "description": "Accepts any arbitrary object or value and returns a\nfunction that will always return said object every\ntime it gets called regardless of its arguments.",
+    "examples": [
+      "const zero = constant(0);\nconst listOfZeros = map(zero)(Array(3)); //> [0, 0, 0]\n\nconstant(listOfZeros)() === listOfZeros //> true"
+    ],
+    "lineNumber": 22,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "T"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "element",
+        "description": "The object or value that will be returned."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(): T"
+      ],
+      "spread": false,
+      "description": "A getter that produces the same result."
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/lambda/identity.ts",
+    "content": "/**\n * @desc\n * Returns the first argument passed to it and ignores the rest.\n *\n * It may not seem useful at first, but you can use it in a pipeline\n * or think of it as the absolute unit of **function composition**.\n * For example, you can implement `compose` in the **Haskell**\n * language using `id`: `compose = foldl (.) id` since `(.)`\n * is an infix binary function (takes only two arguments).\n * @example\n * const refObj = { prop: \"Value\" };\n *\n * filter(identity)([true, false]) //> [true]\n * identity(refObj) === refObj //> true\n * identity(5) //> 5\n * @see https://en.wikipedia.org/wiki/Identity_function\n * @param {T} value - The value to return.\n * @return {T}      - The value that you passed.\n */\nexport function identity<T>(value: T): T {\n  return value;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/identity.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "identity",
+    "memberof": "src/lambda/identity.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/identity.ts~identity",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/identity.ts",
+    "importStyle": "{identity}",
+    "description": "Returns the first argument passed to it and ignores the rest.\n\nIt may not seem useful at first, but you can use it in a pipeline\nor think of it as the absolute unit of **function composition**.\nFor example, you can implement `compose` in the **Haskell**\nlanguage using `id`: `compose = foldl (.) id` since `(.)`\nis an infix binary function (takes only two arguments).",
+    "examples": [
+      "const refObj = { prop: \"Value\" };\n\nfilter(identity)([true, false]) //> [true]\nidentity(refObj) === refObj //> true\nidentity(5) //> 5"
+    ],
+    "see": [
+      "https://en.wikipedia.org/wiki/Identity_function"
+    ],
+    "lineNumber": 30,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "T"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "The value to return."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "T"
+      ],
+      "spread": false,
+      "description": "The value that you passed."
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/lambda/index.ts",
+    "content": "export * from \"./constant\";\nexport * from \"./identity\";\nexport * from \"./noop\";\nexport * from \"./repeatedly\";\nexport * from \"./compose\";\nexport * from \"./juxt\";\nexport * from \"./types\";\nexport * from \"./thunk\";\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/index.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/lambda/juxt.ts",
+    "content": "import {map} from \"../\";\n\nexport function juxt<A extends any[], R1, R2, R3, R4, R5>(funcs: [(...args: A) => R1, (...args: A) => R2, (...args: A) => R3, (...args: A) => R4, (...args: A) => R5]): (...args: A) => [R1, R2, R3, R4, R5];\nexport function juxt<A extends any[], R1, R2, R3, R4>(funcs: [(...args: A) => R1, (...args: A) => R2, (...args: A) => R3, (...args: A) => R4]): (...args: A) => [R1, R2, R3, R4];\nexport function juxt<A extends any[], R1, R2, R3>(funcs: [(...args: A) => R1, (...args: A) => R2, (...args: A) => R3]): (...args: A) => [R1, R2, R3];\nexport function juxt<A extends any[], R1, R2>(funcs: [(...args: A) => R1, (...args: A) => R2]): (...args: A) => [R1, R2];\nexport function juxt<A extends any[], R1>(funcs: [(...args: A) => R1]): (...args: A) => [R1];\n/**\n * @desc\n * Receives an **array of functions** and returns a function that\n * is the juxtaposition of those functions. The returned function\n * takes separate arguments and applies them to each function, thus\n * returning an array that contains the results.\n *\n * The current typed overloads only provide partial type\n * checking for **1 to 5 functions**. If you use lambdas\n * instead of named functions, you must specify the same\n * arguments and its types as the ones you passed to\n * the function that receives and applies them.\n *\n * **Note**: The first function in the list needs the exact\n * parameter types as the arguments in the inner function.\n * @example\n * const bounds = juxt([Math.min, Math.max]);\n *\n * bounds(...range(10, -10)); //> [-10, 10]\n * juxt([inc, dec, square])(5); //> [6, 4, 25]\n * juxt([reverse, length])(\"Clojure\");\n * //> [\"erujolC\", 7]\n * juxt([add, neg])(9, 6); //> [15, -9]\n * @param {function[]} funcs - The list of functions.\n * @return {function}\n * A function that applies its arguments to each function in the list.\n */\nexport function juxt<A extends any[], R>(funcs: Array<(...args: A) => R>) {\n  return function juxt__(...args: A): R[] {\n    return map((f: (...args: A) => R) => f(...args))(funcs);\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/juxt.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "juxt",
+    "memberof": "src/lambda/juxt.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/juxt.ts~juxt",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/juxt.ts",
+    "importStyle": "{juxt}",
+    "description": "Receives an **array of functions** and returns a function that\nis the juxtaposition of those functions. The returned function\ntakes separate arguments and applies them to each function, thus\nreturning an array that contains the results.\n\nThe current typed overloads only provide partial type\nchecking for **1 to 5 functions**. If you use lambdas\ninstead of named functions, you must specify the same\narguments and its types as the ones you passed to\nthe function that receives and applies them.\n\n**Note**: The first function in the list needs the exact\nparameter types as the arguments in the inner function.",
+    "examples": [
+      "const bounds = juxt([Math.min, Math.max]);\n\nbounds(...range(10, -10)); //> [-10, 10]\njuxt([inc, dec, square])(5); //> [6, 4, 25]\njuxt([reverse, length])(\"Clojure\");\n//> [\"erujolC\", 7]\njuxt([add, neg])(9, 6); //> [15, -9]"
+    ],
+    "lineNumber": 37,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "funcs",
+        "description": "The list of functions."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function"
+      ],
+      "spread": false,
+      "description": "A function that applies its arguments to each function in the list."
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "file",
+    "name": "src/lambda/noop.ts",
+    "content": "/**\n * @desc\n * Also known as the \"null function\" or \"**no op**eration\", always\n * returns the value `undefined` and does absolutely nothing.\n * @example\n * map(noop)(Array(2)); //> [undefined, undefined]\n * noop(); //> undefined\n * @see https://en.wikipedia.org/wiki/Null_function\n * @return {undefined} - Has return type void.\n */\nexport function noop(): void {\n  return undefined;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/noop.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 60,
+    "kind": "function",
+    "name": "noop",
+    "memberof": "src/lambda/noop.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/noop.ts~noop",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/noop.ts",
+    "importStyle": "{noop}",
+    "description": "Also known as the \"null function\" or \"**no op**eration\", always\nreturns the value `undefined` and does absolutely nothing.",
+    "examples": [
+      "map(noop)(Array(2)); //> [undefined, undefined]\nnoop(); //> undefined"
+    ],
+    "see": [
+      "https://en.wikipedia.org/wiki/Null_function"
+    ],
+    "lineNumber": 17,
+    "return": {
+      "nullable": null,
+      "types": [
+        "undefined"
+      ],
+      "spread": false,
+      "description": "Has return type void."
+    },
+    "params": []
+  },
+  {
+    "__docId__": 61,
+    "kind": "file",
+    "name": "src/lambda/repeatedly.ts",
+    "content": "import {Producer} from \"../\";\n\n/**\n * @desc\n * Runs a function a certain amount of times and returns an array\n * containing the return values of each invocation. It can be\n * useful when running functions that are impure (have side\n * effects) or produce mutable objects or arrays.\n * @example\n * // Simulated dice roll session (4 times)\n * repeatedly(() => randInt(6), 4); //> [2, 1, 3, 5]\n * @throws {Error}               - When the argument `times` is negative.\n * @throws {Error}               - When `times` is not a whole number.\n * @param {function(): T} effect - Callback with potential side effects and optional return value.\n * @param {number}        times  - Amount of times the callback will be run.\n * @return {T[]}                 - The collected results of each invocation.\n */\nexport function repeatedly<T>(effect: Producer<T>, times: number): T[] {\n  if (times < 0) {\n    throw new Error('[repeatedly]: Argument \"times\" must not be negative.');\n  } else if (times % 1 !== 0) {\n    throw new Error('[repeatedly]: Argument \"times\" must not be a decimal.');\n  }\n\n  const collectedResults: T[] = Array(times);\n\n  for (let i = 0; i < times; i++) {\n    collectedResults[i] = effect();\n  }\n\n  return collectedResults\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/repeatedly.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "repeatedly",
+    "memberof": "src/lambda/repeatedly.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/repeatedly.ts~repeatedly",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/repeatedly.ts",
+    "importStyle": "{repeatedly}",
+    "description": "Runs a function a certain amount of times and returns an array\ncontaining the return values of each invocation. It can be\nuseful when running functions that are impure (have side\neffects) or produce mutable objects or arrays.",
+    "examples": [
+      "// Simulated dice roll session (4 times)\nrepeatedly(() => randInt(6), 4); //> [2, 1, 3, 5]"
+    ],
+    "lineNumber": 26,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(): T"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "effect",
+        "description": "Callback with potential side effects and optional return value."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "times",
+        "description": "Amount of times the callback will be run."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "T[]"
+      ],
+      "spread": false,
+      "description": "The collected results of each invocation."
+    },
+    "throws": [
+      {
+        "types": [
+          "Error"
+        ],
+        "description": "When the argument `times` is negative."
+      },
+      {
+        "types": [
+          "Error"
+        ],
+        "description": "When `times` is not a whole number."
+      }
+    ]
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/lambda/thunk.ts",
+    "content": "/**\n * @desc\n * Curried function that first takes a function, then returns another\n * function that accepts `f`'s arguments and lastly, returns a\n * function that takes no arguments and returns the application\n * of the provided arguments to `f`. This is useful for lazy\n * evaluation and delaying the execution of the function.\n * @example\n * describe(\"myFunc\", () => {\n *   it(\"should throw error\", () => {\n *     expect(thunkF(myFunc)(\"bad argument\"))\n *       .toThrowError(BadArgError);\n *   });\n * }); //! [PASS]\n *\n * thunkF(inc)(1)(); //> 2\n * @see {@link thunkV}\n * @param {function(args: ...any): any} f - A function to be called later.\n * @return {function(args: ...any): function(): any}\n * A function that takes no arguments and returns the result of calling f.\n */\nexport function thunkF<T extends any, A extends any[]>(f: (...args: A) => T) {\n  return function thunkF__(...args: A) {\n    return (): T => f(...args);\n  }\n}\n\n/**\n * @desc\n * Takes any value or reference and returns a callable function\n * that takes no arguments and returns that very same value.\n * In functional programming this is called a **thunk**,\n * and it's very useful for lazy evaluation.\n * @example\n * const song = thunkV(\"Call me maybe...\");\n *\n * song(); //> \"Call me maybe...\"\n * thunkV(true)(); //> true\n * @see {@link thunkF}\n * @see https://en.wikipedia.org/wiki/Thunk\n * @param {any} val          - The value to return later.\n * @return {function(): any} - The thunk that returns the value.\n */\nexport function thunkV<T>(val: T) {\n  return (): T => val;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/thunk.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "thunkF",
+    "memberof": "src/lambda/thunk.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/thunk.ts~thunkF",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/thunk.ts",
+    "importStyle": "{thunkF}",
+    "description": "Curried function that first takes a function, then returns another\nfunction that accepts `f`'s arguments and lastly, returns a\nfunction that takes no arguments and returns the application\nof the provided arguments to `f`. This is useful for lazy\nevaluation and delaying the execution of the function.",
+    "examples": [
+      "describe(\"myFunc\", () => {\n  it(\"should throw error\", () => {\n    expect(thunkF(myFunc)(\"bad argument\"))\n      .toThrowError(BadArgError);\n  });\n}); //! [PASS]\n\nthunkF(inc)(1)(); //> 2"
+    ],
+    "see": [
+      "{@link thunkV}"
+    ],
+    "lineNumber": 30,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(args: ...any): any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "f",
+        "description": "A function to be called later."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(args: ...any): function(): any"
+      ],
+      "spread": false,
+      "description": "A function that takes no arguments and returns the result of calling f."
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "thunkV",
+    "memberof": "src/lambda/thunk.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/lambda/thunk.ts~thunkV",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/lambda/thunk.ts",
+    "importStyle": "{thunkV}",
+    "description": "Takes any value or reference and returns a callable function\nthat takes no arguments and returns that very same value.\nIn functional programming this is called a **thunk**,\nand it's very useful for lazy evaluation.",
+    "examples": [
+      "const song = thunkV(\"Call me maybe...\");\n\nsong(); //> \"Call me maybe...\"\nthunkV(true)(); //> true"
+    ],
+    "see": [
+      "{@link thunkF}",
+      "https://en.wikipedia.org/wiki/Thunk"
+    ],
+    "lineNumber": 59,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "val",
+        "description": "The value to return later."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(): any"
+      ],
+      "spread": false,
+      "description": "The thunk that returns the value."
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/lambda/types.ts",
+    "content": "export type Func<T, R> = (x: T) => R;\n\nexport type Producer<P> = () => P;\n\nexport type Runnable = () => void;\n\nexport type Consumer<T> = (product: T) => void;\n\nexport type Mapper<A, B> = (element: A, index: number) => B;\n\nexport type Predicate<T> = (element: T, index: number) => boolean;\n\nexport type Reducer<A, B> = (acc: A, element: B, index: number) => A;\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/lambda/types.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/list/access.ts",
+    "content": "export function first(elements: string): string;\nexport function first(elements: readonly []): undefined;\nexport function first<T extends any>(elements: readonly T[]): T;\n/**\n * @desc\n * Returns the first element of an array or a string. If the\n * array is empty, you will get `undefined` in return; if\n * the string is empty, you will get `\"\"` instead.\n * @example\n * first([false, 0, null]); //> false\n * first([1, 2, 3]); //> 1\n * first(\"Captain\"); //> \"C\"\n * first([]); //> undefined\n * first(\"\"); //> \"\"\n * @see {@link last}\n * @param {string | any[]} elements - Array or string.\n * @return {string | any | undefined}\n * The first element of an array or string; undefined if empty.\n */\nexport function first(elements: any) {\n  const len = elements.length;\n  const tOf = typeof elements;\n\n  if (len === 0) {\n    if (tOf === \"string\") {\n      return \"\";\n    }\n\n    return undefined;\n  }\n\n  return elements[0];\n}\n\nexport function last(elements: string): string;\nexport function last(elements: readonly []): undefined;\nexport function last<T extends any>(elements: readonly T[]): T;\n/**\n * @desc\n * Returns the last element of an array or a string. If the\n * array is empty, you will get `undefined` in return; if\n * the string is empty, you will get `\"\"` instead.\n * @example\n * last([\"1\", \"2\", \"3\"]); //> \"3\"\n * last(\"The Last of Us\"); //> \"s\"\n * last([true]); //> true\n * last([]); //> undefined\n * last(\"\"); //> \"\"\n * @see {@link first}\n * @param {string | any[]} elements - Array or string.\n * @return {string | any | undefined}\n * The last element in the array or string.\n */\nexport function last(elements: any) {\n  const len = elements.length;\n  const tOf = typeof elements;\n\n  if (len === 0) {\n    if (tOf === \"string\") {\n      return \"\";\n    }\n\n    return undefined;\n  }\n\n  return elements[len - 1];\n}\n\nexport function rest(elements: string): string;\nexport function rest(elements: readonly []): [];\nexport function rest<T extends any>(elements: readonly T[]): T[];\n/**\n * @desc\n * Takes an array or a string and returns all its elements\n * excluding the first one. Other languages might call this\n * function \"tail.\" If you pass it a string, and it's empty,\n * you will get an empty string in return.\n * @example\n * rest([1, 2, \"3\"]); //> [2, \"3\"]\n * rest([2, 3]); //> [3]\n * rest([1]); //> []\n * rest([]); //> []\n * rest(\"ABC\"); //> \"BC\"\n * rest(\"\"); //> \"\"\n * @see {@link butLast}\n * @param {string | any[]} elements - Array or string.\n * @return {string | any[]}         - The tail of the array or string.\n */\nexport function rest(elements: any) {\n  return elements.slice(1);\n}\n\nexport function butLast(elements: string): string;\nexport function butLast(elements: readonly []): [];\nexport function butLast<T extends any>(elements: readonly T[]): T[];\n/**\n * @desc\n * Takes an array or a string and returns all its elements\n * excluding the last one. Other languages might call this\n * function \"init.\" If you pass it a string, and it's empty,\n * you will get an empty string in return.\n * @example\n * butLast([1, 2, \"3\"]); //> [1, 2]\n * butLast([2, 3]); //> [2]\n * butLast([1]); //> []\n * butLast([]); //> []\n * butLast(\"ABC\"); //> \"AB\"\n * butLast(\"\"); //> \"\"\n * @see {@link rest}\n * @param {string | any[]} elements - Array or string.\n * @return {string | any[]}         - All elements but the last one.\n */\nexport function butLast(elements: any) {\n  const len = elements.length;\n\n  return elements.slice(0, len - 1);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/access.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "first",
+    "memberof": "src/list/access.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/access.ts~first",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/access.ts",
+    "importStyle": "{first}",
+    "description": "Returns the first element of an array or a string. If the\narray is empty, you will get `undefined` in return; if\nthe string is empty, you will get `\"\"` instead.",
+    "examples": [
+      "first([false, 0, null]); //> false\nfirst([1, 2, 3]); //> 1\nfirst(\"Captain\"); //> \"C\"\nfirst([]); //> undefined\nfirst(\"\"); //> \"\""
+    ],
+    "see": [
+      "{@link last}"
+    ],
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string ",
+          " any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "elements",
+        "description": "Array or string."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string ",
+        " any ",
+        " undefined"
+      ],
+      "spread": false,
+      "description": "The first element of an array or string; undefined if empty."
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "last",
+    "memberof": "src/list/access.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/access.ts~last",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/access.ts",
+    "importStyle": "{last}",
+    "description": "Returns the last element of an array or a string. If the\narray is empty, you will get `undefined` in return; if\nthe string is empty, you will get `\"\"` instead.",
+    "examples": [
+      "last([\"1\", \"2\", \"3\"]); //> \"3\"\nlast(\"The Last of Us\"); //> \"s\"\nlast([true]); //> true\nlast([]); //> undefined\nlast(\"\"); //> \"\""
+    ],
+    "see": [
+      "{@link first}"
+    ],
+    "lineNumber": 60,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string ",
+          " any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "elements",
+        "description": "Array or string."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string ",
+        " any ",
+        " undefined"
+      ],
+      "spread": false,
+      "description": "The last element in the array or string."
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "rest",
+    "memberof": "src/list/access.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/access.ts~rest",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/access.ts",
+    "importStyle": "{rest}",
+    "description": "Takes an array or a string and returns all its elements\nexcluding the first one. Other languages might call this\nfunction \"tail.\" If you pass it a string, and it's empty,\nyou will get an empty string in return.",
+    "examples": [
+      "rest([1, 2, \"3\"]); //> [2, \"3\"]\nrest([2, 3]); //> [3]\nrest([1]); //> []\nrest([]); //> []\nrest(\"ABC\"); //> \"BC\"\nrest(\"\"); //> \"\""
+    ],
+    "see": [
+      "{@link butLast}"
+    ],
+    "lineNumber": 96,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string ",
+          " any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "elements",
+        "description": "Array or string."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string ",
+        " any[]"
+      ],
+      "spread": false,
+      "description": "The tail of the array or string."
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "butLast",
+    "memberof": "src/list/access.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/access.ts~butLast",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/access.ts",
+    "importStyle": "{butLast}",
+    "description": "Takes an array or a string and returns all its elements\nexcluding the last one. Other languages might call this\nfunction \"init.\" If you pass it a string, and it's empty,\nyou will get an empty string in return.",
+    "examples": [
+      "butLast([1, 2, \"3\"]); //> [1, 2]\nbutLast([2, 3]); //> [2]\nbutLast([1]); //> []\nbutLast([]); //> []\nbutLast(\"ABC\"); //> \"AB\"\nbutLast(\"\"); //> \"\""
+    ],
+    "see": [
+      "{@link rest}"
+    ],
+    "lineNumber": 124,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string ",
+          " any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "elements",
+        "description": "Array or string."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string ",
+        " any[]"
+      ],
+      "spread": false,
+      "description": "All elements but the last one."
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "src/list/filter.ts",
+    "content": "import {foldl, Predicate} from \"../\";\n\n/**\n * @desc\n * Keeps the elements of an array that match against\n * a user-supplied predicate (function that returns\n * a boolean) and discards the ones that don't.\n *\n * The callback function gets invoked with two\n * arguments: the current element in the array\n * and its corresponding zero-based index.\n *\n * **NOTE**: This function does not mutate the original array.\n * @example\n * const productList: Product[] = [\n *  { productId: 1, defective: true },\n *  { productId: 2, defective: false },\n *  { productId: 3, defective: true }\n * ];\n *\n * filter(propEq(\"defective\", false))(productList)\n * //> [{ productId: 2, defective: false }]\n * @param {function(x: T, i: number): boolean} pred - Predicate callback function.\n * @return {function(xs: T[]): T[]}                 - A function that accepts the list.\n */\nexport function filter<T>(pred: Predicate<T>) {\n  return function filter__(elements: T[]): T[] {\n    return foldl<T[], T>((filtered, element, index) => {\n      if (pred(element, index)) {\n        filtered.push(element);\n      }\n\n      return filtered;\n    }, [])(elements);\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/filter.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "filter",
+    "memberof": "src/list/filter.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/filter.ts~filter",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/filter.ts",
+    "importStyle": "{filter}",
+    "description": "Keeps the elements of an array that match against\na user-supplied predicate (function that returns\na boolean) and discards the ones that don't.\n\nThe callback function gets invoked with two\narguments: the current element in the array\nand its corresponding zero-based index.\n\n**NOTE**: This function does not mutate the original array.",
+    "examples": [
+      "const productList: Product[] = [\n { productId: 1, defective: true },\n { productId: 2, defective: false },\n { productId: 3, defective: true }\n];\n\nfilter(propEq(\"defective\", false))(productList)\n//> [{ productId: 2, defective: false }]"
+    ],
+    "lineNumber": 33,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(x: T, i: number): boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "pred",
+        "description": "Predicate callback function."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(xs: T[]): T[]"
+      ],
+      "spread": false,
+      "description": "A function that accepts the list."
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "file",
+    "name": "src/list/foldl.ts",
+    "content": "import {Reducer} from \"../lambda\";\n\n/**\n * @desc\n * Folds a list from left to right using an initial value to\n * accumulate an eventual result. It's similar to `reduce`\n * although the initial value is obligatory.\n *\n * The reducer is a tertiary function whose first argument\n * is the accumulated value, the second argument is the\n * current iterated element, and lastly, the index.\n * The return value of this reducer must be of the\n * same type as the accumulated value.\n * @example\n * foldl(add, 50)(range(1, 3)); //> 56\n *\n * foldl<string, number>(\n *  (acc, _, i) => acc + i,\n *  \"Indexes: \"\n * )(repeatedly(noop, 5));\n * //> \"Indexes: 01234\"\n * @todo Make the index-passing optional.\n * @param {function(acc: R, x: T, i: number): R} reducer - Tertiary reducer function.\n * @param {R}                                    initial - Initial value for accumulation.\n * @return {function(xs: T[]): R}                        - A function that accepts the array.\n */\nexport function foldl<R, T>(reducer: Reducer<R, T>, initial: R) {\n  return function foldl__(elements: T[]): R {\n    const length = elements.length;\n    let reduced: R = initial;\n\n    for (let i = 0; i < length; i++) {\n      reduced = reducer(reduced, elements[i], i);\n    }\n\n    return reduced;\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/foldl.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "foldl",
+    "memberof": "src/list/foldl.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/foldl.ts~foldl",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/foldl.ts",
+    "importStyle": "{foldl}",
+    "description": "Folds a list from left to right using an initial value to\naccumulate an eventual result. It's similar to `reduce`\nalthough the initial value is obligatory.\n\nThe reducer is a tertiary function whose first argument\nis the accumulated value, the second argument is the\ncurrent iterated element, and lastly, the index.\nThe return value of this reducer must be of the\nsame type as the accumulated value.",
+    "examples": [
+      "foldl(add, 50)(range(1, 3)); //> 56\n\nfoldl<string, number>(\n (acc, _, i) => acc + i,\n \"Indexes: \"\n)(repeatedly(noop, 5));\n//> \"Indexes: 01234\""
+    ],
+    "lineNumber": 35,
+    "todo": [
+      "Make the index-passing optional."
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(acc: R, x: T, i: number): R"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "reducer",
+        "description": "Tertiary reducer function."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "R"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "initial",
+        "description": "Initial value for accumulation."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(xs: T[]): R"
+      ],
+      "spread": false,
+      "description": "A function that accepts the array."
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "file",
+    "name": "src/list/index.ts",
+    "content": "export * from \"./foldl\";\nexport * from \"./map\";\nexport * from \"./filter\";\nexport * from \"./singleton\";\nexport * from \"./access\";\nexport * from \"./reverse\";\nexport * from \"./partition\";\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/index.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/list/map.ts",
+    "content": "import {foldl, Mapper} from \"../\";\n\n/**\n * @desc\n * Mapping is a process in which an element gets **transformed** into\n * another element of the same or different type. This function\n * applies a *mapper* to a list of elements and returns a new\n * list with the results of each mapper. The mapper receives\n * the current element and the index for each iteration.\n *\n * **NOTE**: This function does not mutate the original array.\n * @example\n * const nums: number[] = [1, 2, 3];\n *\n * map((x: string, i) => `${i} | ${x}`)(nums)\n * //> [\"0 | 1\", \"1 | 2\", \"2 | 3\"]\n * map(square)(nums); //> [1, 4, 9]\n *\n * // It follows the functor laws pretty well:\n * comp(map(inc), map(inc))(nums); //> [3, 4, 5]\n * map(comp(inc, inc))(nums); //> [3, 4, 5]\n *\n * map(identity)(nums); //> [1, 2, 3]\n * identity(nums); //> [1, 2, 3]\n * @see https://en.wikipedia.org/wiki/Map_(mathematics)\n * @param {function(x: A): B} mapper - Tertiary mapper function.\n * @return {function(xs: A[]): B[]}  - Function that accepts the list.\n */\nexport function map<A, B>(mapper: Mapper<A, B>) {\n  return function map__(elements: A[]): B[] {\n    return foldl<B[], A>((mapped, element, index) => {\n      mapped.push(mapper(element, index));\n\n      return mapped;\n    }, [])(elements);\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/map.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "map",
+    "memberof": "src/list/map.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/map.ts~map",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/map.ts",
+    "importStyle": "{map}",
+    "description": "Mapping is a process in which an element gets **transformed** into\nanother element of the same or different type. This function\napplies a *mapper* to a list of elements and returns a new\nlist with the results of each mapper. The mapper receives\nthe current element and the index for each iteration.\n\n**NOTE**: This function does not mutate the original array.",
+    "examples": [
+      "const nums: number[] = [1, 2, 3];\n\nmap((x: string, i) => `${i} | ${x}`)(nums)\n//> [\"0 | 1\", \"1 | 2\", \"2 | 3\"]\nmap(square)(nums); //> [1, 4, 9]\n\n// It follows the functor laws pretty well:\ncomp(map(inc), map(inc))(nums); //> [3, 4, 5]\nmap(comp(inc, inc))(nums); //> [3, 4, 5]\n\nmap(identity)(nums); //> [1, 2, 3]\nidentity(nums); //> [1, 2, 3]"
+    ],
+    "see": [
+      "https://en.wikipedia.org/wiki/Map_(mathematics)"
+    ],
+    "lineNumber": 36,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(x: A): B"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "mapper",
+        "description": "Tertiary mapper function."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(xs: A[]): B[]"
+      ],
+      "spread": false,
+      "description": "Function that accepts the list."
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/list/partition.ts",
+    "content": "/**\n * @desc\n * Partitions an array into chunks of `n` elements each and\n * optionally skips or repeats items using the argument\n * `step`. The last chunk can have less than `n` elements.\n * A positive `step` means some elements will be skipped;\n * a negative `step` means some elements will be repeated;\n * and a 0 `step` (the default) will not do anything.\n *\n * **Note**: This function is extremely similar to Clojure's\n * `partition-all`, but it doesn't have the `pad` argument.\n * @example\n * partition(2)(range(1, 4));\n * //> [[1, 2], [3, 4]]\n * partition(2)(range(1, 5));\n * //> [[1, 2], [3, 4], [5]]\n * partition(2, 1)(range(1, 5));\n * //> [[1, 2], [4, 5]]\n * partition(2, -1)(range(1, 3));\n * //> [[1, 2], [2, 3], [3]]\n * partition(3)([1, 2]);\n * //> [[1, 2]]\n * @throws {RangeError}     - When n is less than 1 or step <= -N if step is negative.\n * @param {number} n        - Amount of elements per chunk.\n * @param {number} [step=0] - Amount of elements to skip or repeat.\n * @return {function(xs: any[]): any[][]}\n * The chunks of elements.\n */\nexport function partition(n: number, step: number = 0) {\n  return function partition__<T extends any>(xs: T[]): T[][] {\n    if (n < 1) {\n      throw new RangeError(\"[partition]: N should not be 0 or negative\");\n    } else if (step + n <= 0) {\n      throw new RangeError(\"[partition]: Negative step should not go below or equal to -N\");\n    }\n\n    const len = xs.length;\n    const chunkAmount = Math.ceil(len / (n + step));\n    const chunks = Array(chunkAmount);\n\n    for (let i = 0; i < chunkAmount; i++) {\n      const pivot = i * (n + step);\n\n      chunks[i] = xs.slice(pivot, pivot + n);\n    }\n\n    return chunks;\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/partition.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "partition",
+    "memberof": "src/list/partition.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/partition.ts~partition",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/partition.ts",
+    "importStyle": "{partition}",
+    "description": "Partitions an array into chunks of `n` elements each and\noptionally skips or repeats items using the argument\n`step`. The last chunk can have less than `n` elements.\nA positive `step` means some elements will be skipped;\na negative `step` means some elements will be repeated;\nand a 0 `step` (the default) will not do anything.\n\n**Note**: This function is extremely similar to Clojure's\n`partition-all`, but it doesn't have the `pad` argument.",
+    "examples": [
+      "partition(2)(range(1, 4));\n//> [[1, 2], [3, 4]]\npartition(2)(range(1, 5));\n//> [[1, 2], [3, 4], [5]]\npartition(2, 1)(range(1, 5));\n//> [[1, 2], [4, 5]]\npartition(2, -1)(range(1, 3));\n//> [[1, 2], [2, 3], [3]]\npartition(3)([1, 2]);\n//> [[1, 2]]"
+    ],
+    "lineNumber": 39,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "Amount of elements per chunk."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "0",
+        "defaultRaw": 0,
+        "name": "step",
+        "description": "Amount of elements to skip or repeat."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(xs: any[]): any[][]"
+      ],
+      "spread": false,
+      "description": "The chunks of elements."
+    },
+    "throws": [
+      {
+        "types": [
+          "RangeError"
+        ],
+        "description": "When n is less than 1 or step <= -N if step is negative."
+      }
+    ]
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/list/reverse.ts",
+    "content": "import {chars, unchars} from \"../\";\n\nexport function reverse(elements: string): string;\nexport function reverse(elements: readonly []): [];\nexport function reverse<T extends any>(elements: readonly T[]): T[];\n/**\n * @desc\n * Takes a string or an array and reverses it. A copy\n * of the array is returned instead of mutating the\n * original; if you want the opposite behaviour\n * use `Array.prototype.reverse.call()` instead.\n * @example\n * reverse([1, 2, 3]); //> [3, 2, 1]\n * reverse([1]); //> [1]\n * reverse([]); //> []\n * reverse(\"mirror\"); //> \"rorrim\"\n * reverse(\"\"); //> \"\"\n * @param {string | any[]} elements - Array or string to reverse.\n * @return {string | any[]}         - Reversed string or array.\n */\nexport function reverse(elements: any) {\n  const len = elements.length;\n\n  if (typeof elements === \"string\") {\n    return unchars(chars(elements).reverse());\n  }\n\n  const pivot = Math.ceil(len / 2);\n  const reversed = Array(len);\n\n  for (let l = 0, r = len - 1; l < pivot; l++, r--) {\n    reversed[l] = elements[r];\n    reversed[r] = elements[l];\n  }\n\n  return reversed;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/reverse.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "reverse",
+    "memberof": "src/list/reverse.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/reverse.ts~reverse",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/reverse.ts",
+    "importStyle": "{reverse}",
+    "description": "Takes a string or an array and reverses it. A copy\nof the array is returned instead of mutating the\noriginal; if you want the opposite behaviour\nuse `Array.prototype.reverse.call()` instead.",
+    "examples": [
+      "reverse([1, 2, 3]); //> [3, 2, 1]\nreverse([1]); //> [1]\nreverse([]); //> []\nreverse(\"mirror\"); //> \"rorrim\"\nreverse(\"\"); //> \"\""
+    ],
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string ",
+          " any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "elements",
+        "description": "Array or string to reverse."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string ",
+        " any[]"
+      ],
+      "spread": false,
+      "description": "Reversed string or array."
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "file",
+    "name": "src/list/singleton.ts",
+    "content": "/**\n * @desc\n * Creates an array containing only the element\n * you pass to this function, thus making it\n * a \"singleton\" (single-element collection).\n * @example\n * singleton(\"Han Solo\"); //> [\"Han Solo\"]\n * singleton(undefined); //> [undefined]\n * singleton([0]); //> [[0]]\n * @since 1.0.0\n * @param {any} element - The element to enclose.\n * @return {any[]}      - The singleton array.\n */\nexport function singleton<T>(element: T): [T] {\n  return [element];\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/singleton.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "singleton",
+    "memberof": "src/list/singleton.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/singleton.ts~singleton",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/singleton.ts",
+    "importStyle": "{singleton}",
+    "description": "Creates an array containing only the element\nyou pass to this function, thus making it\na \"singleton\" (single-element collection).",
+    "examples": [
+      "singleton(\"Han Solo\"); //> [\"Han Solo\"]\nsingleton(undefined); //> [undefined]\nsingleton([0]); //> [[0]]"
+    ],
+    "lineNumber": 22,
+    "since": "1.0.0",
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "element",
+        "description": "The element to enclose."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "any[]"
+      ],
+      "spread": false,
+      "description": "The singleton array."
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/list/uncons.ts",
+    "content": "import {first, rest} from \"../\";\n\n/**\n * @desc\n * Returns a tuple (array of length 2) with the first\n * element being the head of the provided array and\n * the second being the tail. This function comes\n * from the Haskell programming language.\n * @example\n * uncons([1, 2, 3]); //> [1, [2, 3]]\n * uncons([1, 2]); //> [1, [2]]\n * uncons([1]); //> [1, []]\n * uncons([]); //> [undefined, []]\n * @param {any[]} elements - The Array or elements.\n * @return {any[][]}       - Head and tail of the array.\n */\nexport function uncons<T extends any>(elements: T[]) {\n  return [first(elements), rest(elements)];\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/list/uncons.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "function",
+    "name": "uncons",
+    "memberof": "src/list/uncons.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/uncons.ts~uncons",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/list/uncons.ts",
+    "importStyle": "{uncons}",
+    "description": "Returns a tuple (array of length 2) with the first\nelement being the head of the provided array and\nthe second being the tail. This function comes\nfrom the Haskell programming language.",
+    "examples": [
+      "uncons([1, 2, 3]); //> [1, [2, 3]]\nuncons([1, 2]); //> [1, [2]]\nuncons([1]); //> [1, []]\nuncons([]); //> [undefined, []]"
+    ],
+    "lineNumber": 24,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "elements",
+        "description": "The Array or elements."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "any[][]"
+      ],
+      "spread": false,
+      "description": "Head and tail of the array."
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/logic/index.ts",
+    "content": "export * from \"./operator\";\nexport * from \"./negate\";\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/logic/index.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "file",
+    "name": "src/logic/negate.ts",
+    "content": "/**\n * @desc\n * Accepts a predicate function (produces a boolean value) and returns\n * another predicate function that accepts the same arguments but\n * returns the negated boolean (`true->false` and `false->true`).\n * @example\n * const isOldEnough = (age: number) => age >= 18;\n * const isUnderage = negate(isOldEnough);\n *\n * isOldEnough(30); //> true\n * isOldEnough(15); //> false\n * isUnderage(15); //> true\n * isUnderage(30); //> false\n * @param {function(x: ...any): boolean} assertion - The variadic predicate function.\n * @return {function(y: ...any): boolean}          - The negated predicate function.\n */\nexport function negate<A extends any[]>(assertion: (...args: A) => boolean) {\n  return function negate__(...args: A): boolean {\n    return !(assertion(...args));\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/logic/negate.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 89,
+    "kind": "function",
+    "name": "negate",
+    "memberof": "src/logic/negate.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/logic/negate.ts~negate",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/logic/negate.ts",
+    "importStyle": "{negate}",
+    "description": "Accepts a predicate function (produces a boolean value) and returns\nanother predicate function that accepts the same arguments but\nreturns the negated boolean (`true->false` and `false->true`).",
+    "examples": [
+      "const isOldEnough = (age: number) => age >= 18;\nconst isUnderage = negate(isOldEnough);\n\nisOldEnough(30); //> true\nisOldEnough(15); //> false\nisUnderage(15); //> true\nisUnderage(30); //> false"
+    ],
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(x: ...any): boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "assertion",
+        "description": "The variadic predicate function."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(y: ...any): boolean"
+      ],
+      "spread": false,
+      "description": "The negated predicate function."
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "file",
+    "name": "src/logic/operator.ts",
+    "content": "/**\n * @desc\n * Binary function that does the same as the `&&` operator.\n * @example\n * and(lt(5)(3), gt(2)(4)); //> true\n * and(true, true); //> true\n * and(false, true); //> false\n * @param {boolean} a - Left-side expression.\n * @param {boolean} b - Right-side expression.\n * @return {boolean}  - Result of the logical operation.\n */\nexport function and(a: boolean, b: boolean): boolean {\n  return a && b;\n}\n\n/**\n * @desc\n * Binary function that does the same as the `||` operator.\n * @example\n * or(lt(3)(5), gt(2)(8)); //> true\n * or(false, false); //> false\n * or(true, false); //> true\n * @param {boolean} a - Left-side expression.\n * @param {boolean} b - Right-side expression.\n * @return {boolean}  - Result of the logical operation.\n */\nexport function or(a: boolean, b: boolean): boolean {\n  return a || b;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/logic/operator.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 91,
+    "kind": "function",
+    "name": "and",
+    "memberof": "src/logic/operator.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/logic/operator.ts~and",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/logic/operator.ts",
+    "importStyle": "{and}",
+    "description": "Binary function that does the same as the `&&` operator.",
+    "examples": [
+      "and(lt(5)(3), gt(2)(4)); //> true\nand(true, true); //> true\nand(false, true); //> false"
+    ],
+    "lineNumber": 24,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": "Left-side expression."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": "Right-side expression."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "Result of the logical operation."
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "function",
+    "name": "or",
+    "memberof": "src/logic/operator.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/logic/operator.ts~or",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/logic/operator.ts",
+    "importStyle": "{or}",
+    "description": "Binary function that does the same as the `||` operator.",
+    "examples": [
+      "or(lt(3)(5), gt(2)(8)); //> true\nor(false, false); //> false\nor(true, false); //> true"
+    ],
+    "lineNumber": 50,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": "Left-side expression."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": "Right-side expression."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "Result of the logical operation."
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "file",
+    "name": "src/math/arithmetic.ts",
+    "content": "/**\n * @desc\n * Takes a number and subtracts 1 from it.\n * @example\n * dec(0.33); //> -0.33\n * dec(15); //> 14\n * dec(-10); //> -11\n * @param {number} n - The number to decrement.\n * @return {number}  - The decremented number.\n */\nexport function dec(n: number): number {\n  return n - 1;\n}\n\n/**\n * @desc\n * Takes a number and adds 1 to it.\n * @example\n * inc(-5); //> -4\n * inc(0); //> 1\n * inc(12.5); //> 13.5\n * @param {number} n - The number to increment.\n * @return {number}  - The incremented number.\n */\nexport function inc(n: number): number {\n  return n + 1;\n}\n\n/**\n * @desc\n * Multiplies a number by itself.\n * @example\n * square(0) + square(1); //> 1\n * square(5); //> 25\n * square(-5); //> 25\n * @param {number} n - The number to square.\n * @return {number}  - The squared number.\n */\nexport function square(n: number): number {\n  return n * n;\n}\n\n/**\n * @desc\n * Takes a number and flips its sign. This means that\n * a positive number will become negative, a negative\n * number will become positive, and zero won't change.\n * @example\n * neg(0) === neg(-0) === 0; //> true\n * neg(42); //> -42\n * neg(-42); //> 42\n * @param {number} n - The number to negate.\n * @return {number}  - The number with its sign flipped.\n */\nexport function neg(n: number): number {\n  return 0 - n;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/arithmetic.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 94,
+    "kind": "function",
+    "name": "dec",
+    "memberof": "src/math/arithmetic.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/arithmetic.ts~dec",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/arithmetic.ts",
+    "importStyle": "{dec}",
+    "description": "Takes a number and subtracts 1 from it.",
+    "examples": [
+      "dec(0.33); //> -0.33\ndec(15); //> 14\ndec(-10); //> -11"
+    ],
+    "lineNumber": 21,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number to decrement."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The decremented number."
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "inc",
+    "memberof": "src/math/arithmetic.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/arithmetic.ts~inc",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/arithmetic.ts",
+    "importStyle": "{inc}",
+    "description": "Takes a number and adds 1 to it.",
+    "examples": [
+      "inc(-5); //> -4\ninc(0); //> 1\ninc(12.5); //> 13.5"
+    ],
+    "lineNumber": 44,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number to increment."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The incremented number."
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "function",
+    "name": "square",
+    "memberof": "src/math/arithmetic.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/arithmetic.ts~square",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/arithmetic.ts",
+    "importStyle": "{square}",
+    "description": "Multiplies a number by itself.",
+    "examples": [
+      "square(0) + square(1); //> 1\nsquare(5); //> 25\nsquare(-5); //> 25"
+    ],
+    "lineNumber": 67,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number to square."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The squared number."
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "neg",
+    "memberof": "src/math/arithmetic.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/arithmetic.ts~neg",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/arithmetic.ts",
+    "importStyle": "{neg}",
+    "description": "Takes a number and flips its sign. This means that\na positive number will become negative, a negative\nnumber will become positive, and zero won't change.",
+    "examples": [
+      "neg(0) === neg(-0) === 0; //> true\nneg(42); //> -42\nneg(-42); //> 42"
+    ],
+    "lineNumber": 92,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "n",
+        "description": "The number to negate."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The number with its sign flipped."
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "file",
+    "name": "src/math/between.ts",
+    "content": "/**\n * @desc\n * Returns a function that keeps a number from being lower or\n * higher than the specified **boundaries**. This function is also\n * called `clamp` in other APIs and utility libraries. If you\n * only need to contain lower and upper limits separately, use\n * the partially applied versions of `max` and `min` instead.\n *\n * **Note**: The order of the two arguments is merely symbolic,\n * they will be flipped if `lower` is greater than `upper`.\n * @example\n * between(0, 10)(12); //> 10\n * between(-10, 0)(-15); //> -10\n * between(-1, 1)(0); //> 0\n * between(5, 5)(5); //> 5\n * @param {number} lower - Lower limit.\n * @param {number} upper - Upper limit.\n * @return {function(n: number): number}\n * Function that returns `lower` if `n < lower`, `upper` if\n * `n > upper` or just `n` otherwise.\n */\nexport function between(lower: number, upper: number) {\n  return function between__(n: number): number {\n    if (lower > upper) {\n      [lower, upper] = [upper, lower];\n    }\n\n    return Math.min(upper, Math.max(lower, n));\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/between.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 99,
+    "kind": "function",
+    "name": "between",
+    "memberof": "src/math/between.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/between.ts~between",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/between.ts",
+    "importStyle": "{between}",
+    "description": "Returns a function that keeps a number from being lower or\nhigher than the specified **boundaries**. This function is also\ncalled `clamp` in other APIs and utility libraries. If you\nonly need to contain lower and upper limits separately, use\nthe partially applied versions of `max` and `min` instead.\n\n**Note**: The order of the two arguments is merely symbolic,\nthey will be flipped if `lower` is greater than `upper`.",
+    "examples": [
+      "between(0, 10)(12); //> 10\nbetween(-10, 0)(-15); //> -10\nbetween(-1, 1)(0); //> 0\nbetween(5, 5)(5); //> 5"
+    ],
+    "lineNumber": 32,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "lower",
+        "description": "Lower limit."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "upper",
+        "description": "Upper limit."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(n: number): number"
+      ],
+      "spread": false,
+      "description": "Function that returns `lower` if `n < lower`, `upper` if\n`n > upper` or just `n` otherwise."
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "file",
+    "name": "src/math/collect.ts",
+    "content": "import {foldl} from \"../\";\n\n/**\n * @desc\n * Takes a list of numbers and adds them all together.\n * An empty list will result in 0.\n * @example\n * sum(range(0, 10)); //> 55\n * sum([-1, 2, 3.5]); //> 4.5\n * sum([256]); //> 256\n * sum([]); //> 0\n * @see {@link product}\n * @param {number[]} numbers - The list of numbers to add together.\n * @return {number}          - The resulting sum.\n */\nexport function sum(numbers: number[]): number {\n  return foldl((acc, n: number) => acc + n, 0)(numbers);\n}\n\n/**\n * @desc\n * Takes a list of numbers and multiplies them all together.\n * An empty list will result in 1.\n * @example\n * const factorial = (num: number) =>\n *   product(range(1, n));\n *\n * factorial(5); //> 120\n * product([10, 0, 5]); //> 0\n * product([5]); //> 5\n * product([]); //> 1\n * @see {@link sum}\n * @todo [Optimization] Make use of short-circuiting when it finds a 0.\n * @param {number[]} factors - The list of numbers to multiply.\n * @return {number}          - The resulting product.\n */\nexport function product(factors: number[]): number {\n  const result = foldl((acc, n: number) => acc * n, 1)(factors);\n\n  return result === -0 ? 0 : result;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/collect.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 101,
+    "kind": "function",
+    "name": "sum",
+    "memberof": "src/math/collect.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/collect.ts~sum",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/collect.ts",
+    "importStyle": "{sum}",
+    "description": "Takes a list of numbers and adds them all together.\nAn empty list will result in 0.",
+    "examples": [
+      "sum(range(0, 10)); //> 55\nsum([-1, 2, 3.5]); //> 4.5\nsum([256]); //> 256\nsum([]); //> 0"
+    ],
+    "see": [
+      "{@link product}"
+    ],
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "numbers",
+        "description": "The list of numbers to add together."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The resulting sum."
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "function",
+    "name": "product",
+    "memberof": "src/math/collect.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/collect.ts~product",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/collect.ts",
+    "importStyle": "{product}",
+    "description": "Takes a list of numbers and multiplies them all together.\nAn empty list will result in 1.",
+    "examples": [
+      "const factorial = (num: number) =>\n  product(range(1, n));\n\nfactorial(5); //> 120\nproduct([10, 0, 5]); //> 0\nproduct([5]); //> 5\nproduct([]); //> 1"
+    ],
+    "see": [
+      "{@link sum}"
+    ],
+    "lineNumber": 55,
+    "todo": [
+      "[Optimization] Make use of short-circuiting when it finds a 0."
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "factors",
+        "description": "The list of numbers to multiply."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The resulting product."
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "file",
+    "name": "src/math/index.ts",
+    "content": "export * from \"./range\";\nexport * from \"./arithmetic\";\nexport * from \"./collect\";\nexport * from \"./rand\";\nexport * from \"./between\";\nexport * from \"./trig\";\nexport * from \"./scale\";\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/index.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 104,
+    "kind": "file",
+    "name": "src/math/rand.ts",
+    "content": "/**\n * @desc\n * Generates a random decimal number from 0 to `limit` where\n * said limit is exclusive by default (this can't be changed).\n * Negative numbers are allowed, whereas zero will return zero.\n *\n * If no limit is provided, the function will behave like a\n * regular invocation to Math.random(), which produces a\n * decimal number from 0 to 1 (exclusive).\n * @example\n * rand(); //> 0.659200472384411\n * rand(100); //> 43.08636762865034\n * rand(-5); //> -4.978273764897162\n * rand(1.9); //> 1.025913286257413\n * @see {@link randInt}\n * @param  {number} [limit=1] - The upper limit (integer or not).\n * @return {number}           - The random decimal number.\n */\nexport function rand(limit: number = 1): number {\n  return Math.random() * limit;\n}\n\n/**\n * @desc\n * Generates a random integer from 0 to `limit` where said\n * limit is exclusive by default. Negative integers are\n * allowed and will produce the expected result which is\n * a random integer from 0 to that negative number.\n * The limit exclusivity can be changed by the user with\n * an optional boolean value defaulted to `false`.\n *\n * **NOTE**: If the limit is not decimal, it will\n * be \"floored\" to get rid of its decimal places.\n * @example\n * randInt(100); //> 48 (range of [0, 100))\n * randInt(-10); //> -5 (range of (-10, 0])\n * randInt(5, true); //> 5 (range of [0, 5])\n * randInt(1); //> 0 (range of [0, 1))\n * randInt(0); //> 0 (always yields 0)\n * randInt(3.5, false); //> 2 (range of [0, 3))\n * @see {@link rand}\n * @param  {number}  limit             - Upper limit number.\n * @param  {boolean} [inclusive=false] - Decides if `limit` is inclusive.\n * @return {number}                    - The newly generated integer.\n */\nexport function randInt(limit: number, inclusive: boolean = false): number {\n  if (limit === 0 || (limit === 1 && !inclusive)) {\n    return 0;\n  }\n\n  const flooredLimit = Math.floor(limit);\n  const limitWithoutSign = Math.abs(flooredLimit);\n  const limitSign = flooredLimit / limitWithoutSign;\n  const result = Math.floor(\n    rand(limitWithoutSign + Number(inclusive))\n  ) * limitSign;\n\n  return result === -0 ? 0 : result;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/rand.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 105,
+    "kind": "function",
+    "name": "rand",
+    "memberof": "src/math/rand.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/rand.ts~rand",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/rand.ts",
+    "importStyle": "{rand}",
+    "description": "Generates a random decimal number from 0 to `limit` where\nsaid limit is exclusive by default (this can't be changed).\nNegative numbers are allowed, whereas zero will return zero.\n\nIf no limit is provided, the function will behave like a\nregular invocation to Math.random(), which produces a\ndecimal number from 0 to 1 (exclusive).",
+    "examples": [
+      "rand(); //> 0.659200472384411\nrand(100); //> 43.08636762865034\nrand(-5); //> -4.978273764897162\nrand(1.9); //> 1.025913286257413"
+    ],
+    "see": [
+      "{@link randInt}"
+    ],
+    "lineNumber": 29,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "1",
+        "defaultRaw": 1,
+        "name": "limit",
+        "description": "The upper limit (integer or not)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The random decimal number."
+    }
+  },
+  {
+    "__docId__": 106,
+    "kind": "function",
+    "name": "randInt",
+    "memberof": "src/math/rand.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/rand.ts~randInt",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/rand.ts",
+    "importStyle": "{randInt}",
+    "description": "Generates a random integer from 0 to `limit` where said\nlimit is exclusive by default. Negative integers are\nallowed and will produce the expected result which is\na random integer from 0 to that negative number.\nThe limit exclusivity can be changed by the user with\nan optional boolean value defaulted to `false`.\n\n**NOTE**: If the limit is not decimal, it will\nbe \"floored\" to get rid of its decimal places.",
+    "examples": [
+      "randInt(100); //> 48 (range of [0, 100))\nrandInt(-10); //> -5 (range of (-10, 0])\nrandInt(5, true); //> 5 (range of [0, 5])\nrandInt(1); //> 0 (range of [0, 1))\nrandInt(0); //> 0 (always yields 0)\nrandInt(3.5, false); //> 2 (range of [0, 3))"
+    ],
+    "see": [
+      "{@link rand}"
+    ],
+    "lineNumber": 67,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "limit",
+        "description": "Upper limit number."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "false",
+        "defaultRaw": false,
+        "name": "inclusive",
+        "description": "Decides if `limit` is inclusive."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The newly generated integer."
+    }
+  },
+  {
+    "__docId__": 107,
+    "kind": "file",
+    "name": "src/math/range.ts",
+    "content": "import {map} from \"../\";\n\n/**\n * @desc\n * Creates an array of numbers from A to B in sequential order.\n * When the lower limit is greater than the upper limit, the order of\n * appearance gets reversed. Equal limits produce a singleton array.\n *\n * **NOTE**: The upper limit is inclusive and this can't be changed.\n * @example\n * range(3, 0); //> [3, 2, 1, 0]\n * range(3, 6); //> [3, 4, 5, 6]\n * range(-3, -6); //> [-3, -4, -5, -6]\n * range(-6, -3); //> [-6, -5, -4, -3]\n * range(-1, 1); //> [-1, 0, 1]\n * range(1, -1); //> [1, 0, -1]\n * @todo Make the second argument optional so that lowerLimit becomes 0.\n * @param {number} lowerLimit - The first number that will appear on the array.\n * @param {number} upperLimit - The last number that will appear on the array.\n * @return {number[]}         - An array of numbers that represents the range.\n */\nexport function range(lowerLimit: number, upperLimit: number): number[] {\n  const length: number = Math.abs(upperLimit - lowerLimit) + 1;\n  const factor: number = lowerLimit > upperLimit ? -1 : 1;\n  const result: number[] = new Array(length);\n\n  return map((_, i) => lowerLimit + (factor * i))(result);\n}\n\n/**\n * @desc\n * Takes two numbers: a lower limit and an upper limit.\n * Returns a predicate function that receives a number\n * and checks if the number is contained in the range\n * of `[a, b]` so both limits are inclusive, which\n * means `>=` and `<=` are used to compare.\n * @example\n * inRange(0, 10)(5); //> true\n * inRange(-1, 1)(2); //> false\n * inRange(-5, -3)(-4); //> true\n * inRange(5, 5)(5.01); //> false\n * inRange(5, 0)(3); //> true\n * @param {number} a - The lower limit (inclusive).\n * @param {number} b - The upper limit (inclusive).\n * @return {function(x: number): boolean}\n * The predicate function that checks the range inclusion of x.\n */\nexport function inRange(a: number, b: number) {\n  return function inRange__(x: number): boolean {\n    if (a > b) {\n      [a, b] = [b, a];\n    }\n\n    return x >= a && x <= b;\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/range.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 108,
+    "kind": "function",
+    "name": "range",
+    "memberof": "src/math/range.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/range.ts~range",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/range.ts",
+    "importStyle": "{range}",
+    "description": "Creates an array of numbers from A to B in sequential order.\nWhen the lower limit is greater than the upper limit, the order of\nappearance gets reversed. Equal limits produce a singleton array.\n\n**NOTE**: The upper limit is inclusive and this can't be changed.",
+    "examples": [
+      "range(3, 0); //> [3, 2, 1, 0]\nrange(3, 6); //> [3, 4, 5, 6]\nrange(-3, -6); //> [-3, -4, -5, -6]\nrange(-6, -3); //> [-6, -5, -4, -3]\nrange(-1, 1); //> [-1, 0, 1]\nrange(1, -1); //> [1, 0, -1]"
+    ],
+    "lineNumber": 31,
+    "todo": [
+      "Make the second argument optional so that lowerLimit becomes 0."
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "lowerLimit",
+        "description": "The first number that will appear on the array."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "upperLimit",
+        "description": "The last number that will appear on the array."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number[]"
+      ],
+      "spread": false,
+      "description": "An array of numbers that represents the range."
+    }
+  },
+  {
+    "__docId__": 109,
+    "kind": "function",
+    "name": "inRange",
+    "memberof": "src/math/range.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/range.ts~inRange",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/range.ts",
+    "importStyle": "{inRange}",
+    "description": "Takes two numbers: a lower limit and an upper limit.\nReturns a predicate function that receives a number\nand checks if the number is contained in the range\nof `[a, b]` so both limits are inclusive, which\nmeans `>=` and `<=` are used to compare.",
+    "examples": [
+      "inRange(0, 10)(5); //> true\ninRange(-1, 1)(2); //> false\ninRange(-5, -3)(-4); //> true\ninRange(5, 5)(5.01); //> false\ninRange(5, 0)(3); //> true"
+    ],
+    "lineNumber": 65,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": "The lower limit (inclusive)."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": "The upper limit (inclusive)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(x: number): boolean"
+      ],
+      "spread": false,
+      "description": "The predicate function that checks the range inclusion of x."
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "file",
+    "name": "src/math/scale.ts",
+    "content": "/**\n * @desc\n * Takes two intervals [a1, b1], [a2, b2] in the form of four\n * separate arguments and returns a function that accepts a\n * number that is in line with the second interval's scale\n * and returns the equivalent number in terms of the first\n * interval's scale. Inspired by a function demonstrated by\n * **Daniel Shiffman** in a **Coding Train** video.\n *\n * **Note**: If `a2` and `b2` are the same, the function will\n * throw a RangeError to prevent `Infinity` and `NaN`.\n * @example\n * scale(0, 100, 0, 1)(0.5); //> 50\n * scale(-10, 10, -2, -1)(-1.5); //> 0\n * scale(0, 10, 0, 1)(-1); //> -10\n * scale(0, 10, 0, 1)(2); //> 20\n * scale(0.25, 0.5, 0, 255)(250);\n * //> 0.4950980392156863\n * @see https://youtu.be/6z7GQewK-Ks?t=593\n * @see https://p5js.org/reference/#/p5/map\n * @throws {RangeError} - When a2 and b2 are the same.\n * @param {number} a1   - First range's left side.\n * @param {number} b1   - First range's right side.\n * @param {number} a2   - Second range's left side.\n * @param {number} b2   - Second range's right side.\n * @return {function(x: number): number}\n * Function that takes the number \"x\" in terms of the second interval.\n */\nexport function scale(a1: number, b1: number, a2: number, b2: number) {\n  if (a2 - b2 === 0 || a2 - b2 === -0) {\n    throw new RangeError(\"[scale]: Right-side range can't have equal limits.\");\n  }\n\n  if (a1 > b1) {\n    [a1, b1] = [b1, a1];\n  }\n\n  if (a2 > b2) {\n    [a2, b2] = [b2, a2];\n  }\n\n  return function scale__(x: number): number {\n    return a1 + (((x - a2) / (b2 - a2)) * (b1 - a1));\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/scale.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 111,
+    "kind": "function",
+    "name": "scale",
+    "memberof": "src/math/scale.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/scale.ts~scale",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/scale.ts",
+    "importStyle": "{scale}",
+    "description": "Takes two intervals [a1, b1], [a2, b2] in the form of four\nseparate arguments and returns a function that accepts a\nnumber that is in line with the second interval's scale\nand returns the equivalent number in terms of the first\ninterval's scale. Inspired by a function demonstrated by\n**Daniel Shiffman** in a **Coding Train** video.\n\n**Note**: If `a2` and `b2` are the same, the function will\nthrow a RangeError to prevent `Infinity` and `NaN`.",
+    "examples": [
+      "scale(0, 100, 0, 1)(0.5); //> 50\nscale(-10, 10, -2, -1)(-1.5); //> 0\nscale(0, 10, 0, 1)(-1); //> -10\nscale(0, 10, 0, 1)(2); //> 20\nscale(0.25, 0.5, 0, 255)(250);\n//> 0.4950980392156863"
+    ],
+    "see": [
+      "https://youtu.be/6z7GQewK-Ks?t=593",
+      "https://p5js.org/reference/#/p5/map"
+    ],
+    "lineNumber": 43,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a1",
+        "description": "First range's left side."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b1",
+        "description": "First range's right side."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a2",
+        "description": "Second range's left side."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b2",
+        "description": "Second range's right side."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(x: number): number"
+      ],
+      "spread": false,
+      "description": "Function that takes the number \"x\" in terms of the second interval."
+    },
+    "throws": [
+      {
+        "types": [
+          "RangeError"
+        ],
+        "description": "When a2 and b2 are the same."
+      }
+    ]
+  },
+  {
+    "__docId__": 112,
+    "kind": "file",
+    "name": "src/math/trig.ts",
+    "content": "/**\n * @desc\n * Converts plain degrees to radians by using a `PI / 180` factor.\n * @example\n * degToRad(360); //> 6.28319~\n * degToRad(15); //> 0.261799~\n * @see {@link radToDeg}\n * @param {number} deg - Amount of degrees to convert.\n * @return {number}    - Converted radians.\n */\nexport function degToRad(deg: number): number {\n  return deg * (Math.PI / 180);\n}\n\n/**\n * @desc\n * Converts radians to plain degrees by using a `180 / PI` factor.\n * @example\n * radToDeg(2 * Math.PI); //> 360\n * radToDeg(Math.PI / 12); //> 14.99~\n * @see {@link degToRad}\n * @param {number} rad - Amount of radians to convert.\n * @return {number}    - Converted degrees.\n */\nexport function radToDeg(rad: number): number {\n  return rad * (180 / Math.PI);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/math/trig.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 113,
+    "kind": "function",
+    "name": "degToRad",
+    "memberof": "src/math/trig.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/trig.ts~degToRad",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/trig.ts",
+    "importStyle": "{degToRad}",
+    "description": "Converts plain degrees to radians by using a `PI / 180` factor.",
+    "examples": [
+      "degToRad(360); //> 6.28319~\ndegToRad(15); //> 0.261799~"
+    ],
+    "see": [
+      "{@link radToDeg}"
+    ],
+    "lineNumber": 21,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "deg",
+        "description": "Amount of degrees to convert."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "Converted radians."
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "function",
+    "name": "radToDeg",
+    "memberof": "src/math/trig.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/math/trig.ts~radToDeg",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/math/trig.ts",
+    "importStyle": "{radToDeg}",
+    "description": "Converts radians to plain degrees by using a `180 / PI` factor.",
+    "examples": [
+      "radToDeg(2 * Math.PI); //> 360\nradToDeg(Math.PI / 12); //> 14.99~"
+    ],
+    "see": [
+      "{@link degToRad}"
+    ],
+    "lineNumber": 44,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "rad",
+        "description": "Amount of radians to convert."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "Converted degrees."
+    }
+  },
+  {
+    "__docId__": 115,
+    "kind": "file",
+    "name": "src/oop/assign.ts",
+    "content": "/**\n * @desc\n * Super simplified version of `Object.assign` which all it does\n * is take the enumerable \"own properties\" (using a `for in` loop)\n * from a source object and assign the key-value pairs to a target\n * object using bracket notation. It can also be used to create\n * a shallow copy of an object with `assign({}, obj)`.\n * @example\n * const source = { a: 5, b: { c: 1 } };\n *\n * assign({}, source) === source; //> false\n * assign({}, source).b === source.b; // true\n * assign({ d: true }, source);\n * //> { d: true, a: 5, b: { c: 1 } }\n * assign(source, { d: \"D\" });\n * //> { d: \"D\", a: 5, b: { c: 1 } }\n * //* Note: [source] mutated.\n * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign\n * @param {T} target - Object that will receive key-value pairs.\n * @param {S} source - Object that will provide the key value-pairs.\n * @return {T & S} - A union of objects.\n */\nexport function assign<T, S>(target: T, source: S): T & S {\n  if (\n    target === null ||\n    target === undefined ||\n    source === null ||\n    source === undefined\n  ) {\n    throw new TypeError(\"Cannot convert undefined or null to object\");\n  }\n\n  const result = Object(target);\n\n  for (const p in source) {\n    /* istanbul ignore next */\n    if (Object.prototype.hasOwnProperty.call(source, p)) {\n      result[p] = source[p];\n    }\n  }\n\n  return result;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/oop/assign.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 116,
+    "kind": "function",
+    "name": "assign",
+    "memberof": "src/oop/assign.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/oop/assign.ts~assign",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/oop/assign.ts",
+    "importStyle": "{assign}",
+    "description": "Super simplified version of `Object.assign` which all it does\nis take the enumerable \"own properties\" (using a `for in` loop)\nfrom a source object and assign the key-value pairs to a target\nobject using bracket notation. It can also be used to create\na shallow copy of an object with `assign({}, obj)`.",
+    "examples": [
+      "const source = { a: 5, b: { c: 1 } };\n\nassign({}, source) === source; //> false\nassign({}, source).b === source.b; // true\nassign({ d: true }, source);\n//> { d: true, a: 5, b: { c: 1 } }\nassign(source, { d: \"D\" });\n//> { d: \"D\", a: 5, b: { c: 1 } }\n//* Note: [source] mutated."
+    ],
+    "see": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign"
+    ],
+    "lineNumber": 33,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "T"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "target",
+        "description": "Object that will receive key-value pairs."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "S"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "source",
+        "description": "Object that will provide the key value-pairs."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "T & S"
+      ],
+      "spread": false,
+      "description": "A union of objects."
+    }
+  },
+  {
+    "__docId__": 117,
+    "kind": "file",
+    "name": "src/oop/assoc.ts",
+    "content": "import {assign} from \"../\";\n\n/**\n * @desc\n * Takes a key-value pair as separate arguments and then returns\n * a setter function that **mutates** the provided object by either\n * adding a new key to it and setting its value or changing the\n * current value of that key if it exists (**mutates the object**).\n *\n * This function preserves the **prototype** of the object and works\n * well with arrays which can be used in place of `arr[idx] = ?`.\n * @example\n * const author = new Person(\"Stephen King\", 72);\n *\n * assoc(\"age\", 25)(author);\n * //> Person { name: \"Stephen King\", age: 25 }\n * assoc(\"books\", [\"It\"])(author);\n * //> Person { name: \"Stephen King\"\n * //>        , books: [\"It\"]\n * //>        , age: 25 }\n * assoc(0, -5)([5, 6, 7]); //> [-5, 6, 7]\n * @param {K extends keyof any} key   - Key to replace or insert.\n * @param {V} value - Associated value to the key.\n * @return {function(obj: T): T & Record<K, V>}\n * A setter function that adds or changes a key-value pair.\n */\nexport function assoc<K extends keyof any, V>(key: K, value: V) {\n  return function assoc__<T extends Record<any, any>>(obj: T): T & Record<K, V> {\n    return assign(obj, { [key]: value });\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/oop/assoc.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 118,
+    "kind": "function",
+    "name": "assoc",
+    "memberof": "src/oop/assoc.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/oop/assoc.ts~assoc",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/oop/assoc.ts",
+    "importStyle": "{assoc}",
+    "description": "Takes a key-value pair as separate arguments and then returns\na setter function that **mutates** the provided object by either\nadding a new key to it and setting its value or changing the\ncurrent value of that key if it exists (**mutates the object**).\n\nThis function preserves the **prototype** of the object and works\nwell with arrays which can be used in place of `arr[idx] = ?`.",
+    "examples": [
+      "const author = new Person(\"Stephen King\", 72);\n\nassoc(\"age\", 25)(author);\n//> Person { name: \"Stephen King\", age: 25 }\nassoc(\"books\", [\"It\"])(author);\n//> Person { name: \"Stephen King\"\n//>        , books: [\"It\"]\n//>        , age: 25 }\nassoc(0, -5)([5, 6, 7]); //> [-5, 6, 7]"
+    ],
+    "lineNumber": 36,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "K extends keyof any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "Key to replace or insert."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "V"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "Associated value to the key."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(obj: T): T & Record<K, V>"
+      ],
+      "spread": false,
+      "description": "A setter function that adds or changes a key-value pair."
+    }
+  },
+  {
+    "__docId__": 119,
+    "kind": "file",
+    "name": "src/oop/index.ts",
+    "content": "export * from \"./prop\";\nexport * from \"./assign\";\nexport * from \"./assoc\";\nexport * from \"./update\";\nexport * from \"./types\";\nexport * from \"./isEmpty\";\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/oop/index.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 120,
+    "kind": "file",
+    "name": "src/oop/isEmpty.ts",
+    "content": "/**\n * @desc\n * Tests whether an object is empty or not. To check\n * if it's empty, it counts its keys using a `for-in`\n * loop instead of just using `.length`.\n *\n * **Note**: The justification for checking the key\n * amount is to support objects as well as arrays,\n * and this edge case: `Array(5)` doesn't have keys.\n * Also, primitives, `undefined`, `null`, `NaN` and\n * anything that doesn't have keys will return `true`.\n * @example\n * isEmpty([1, 2, 3]); //> false\n * isEmpty([]); //> true\n * isEmpty(\"Not empty\"); //> false\n * isEmpty(\"\"); //> true\n * isEmpty({}); //> true\n * isEmpty(Array(5)); //> true\n * isEmpty(45); //> true\n * @param {any} obj  - Object that may be empty.\n * @return {boolean} - Result of the emptiness test.\n */\nexport function isEmpty(obj: any): boolean {\n  obj = Object(obj);\n\n  for (const key in obj) {\n    /* istanbul ignore next */\n    if (Object.prototype.hasOwnProperty.call(obj, key)) {\n      return false;\n    }\n  }\n\n  return true;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/oop/isEmpty.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 121,
+    "kind": "function",
+    "name": "isEmpty",
+    "memberof": "src/oop/isEmpty.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/oop/isEmpty.ts~isEmpty",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/oop/isEmpty.ts",
+    "importStyle": "{isEmpty}",
+    "description": "Tests whether an object is empty or not. To check\nif it's empty, it counts its keys using a `for-in`\nloop instead of just using `.length`.\n\n**Note**: The justification for checking the key\namount is to support objects as well as arrays,\nand this edge case: `Array(5)` doesn't have keys.\nAlso, primitives, `undefined`, `null`, `NaN` and\nanything that doesn't have keys will return `true`.",
+    "examples": [
+      "isEmpty([1, 2, 3]); //> false\nisEmpty([]); //> true\nisEmpty(\"Not empty\"); //> false\nisEmpty(\"\"); //> true\nisEmpty({}); //> true\nisEmpty(Array(5)); //> true\nisEmpty(45); //> true"
+    ],
+    "lineNumber": 33,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "obj",
+        "description": "Object that may be empty."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "Result of the emptiness test."
+    }
+  },
+  {
+    "__docId__": 122,
+    "kind": "file",
+    "name": "src/oop/prop.ts",
+    "content": "/**\n * @desc\n * Returns a getter function that obtains the value that corresponds\n * to a given key (usually a string). When you run this function in\n * a Typescript environment, you won't be able to call it unless the\n * key strictly exists in the object that you supply to the getter.\n *\n * **Note**: If the key is not present in the object, you will\n * obtain `undefined` in return instead of an error.\n * @example\n * prop(\"age\")({ age: 21 }); //> 21\n * prop(\"length\")(range(0, 3)); //> 4\n *\n * // It can also fetch methods, but they aren't\n * // automagically bound to the original object.\n * const p1: Vector = new Vector(0, 0);\n * const p2: Vector = new Vector(3, 4);\n * const magnitude = prop(\"magnitude\")(p1);\n *\n * magnitude.bind(p2)(); //> 2\n * @param {K extends PropertyKey}       key - The key matching the property.\n * @return {function(obj: Record<K, T>): T} - The value corresponding the property key.\n */\nexport function prop<K extends PropertyKey>(key: K) {\n  return function prop__<O extends Record<K, any>>(obj: O): O[K] {\n    return obj[key];\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/oop/prop.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 123,
+    "kind": "function",
+    "name": "prop",
+    "memberof": "src/oop/prop.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/oop/prop.ts~prop",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/oop/prop.ts",
+    "importStyle": "{prop}",
+    "description": "Returns a getter function that obtains the value that corresponds\nto a given key (usually a string). When you run this function in\na Typescript environment, you won't be able to call it unless the\nkey strictly exists in the object that you supply to the getter.\n\n**Note**: If the key is not present in the object, you will\nobtain `undefined` in return instead of an error.",
+    "examples": [
+      "prop(\"age\")({ age: 21 }); //> 21\nprop(\"length\")(range(0, 3)); //> 4\n\n// It can also fetch methods, but they aren't\n// automagically bound to the original object.\nconst p1: Vector = new Vector(0, 0);\nconst p2: Vector = new Vector(3, 4);\nconst magnitude = prop(\"magnitude\")(p1);\n\nmagnitude.bind(p2)(); //> 2"
+    ],
+    "lineNumber": 32,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "K extends PropertyKey"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "The key matching the property."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(obj: Record<K, T>): T"
+      ],
+      "spread": false,
+      "description": "The value corresponding the property key."
+    }
+  },
+  {
+    "__docId__": 124,
+    "kind": "file",
+    "name": "src/oop/types.ts",
+    "content": "export type PartialRecord<K extends keyof any, T> = {\n  [P in K]?: T;\n};\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/oop/types.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 125,
+    "kind": "file",
+    "name": "src/oop/update.ts",
+    "content": "/**\n * @desc\n * Updates an object by applying a function to the value\n * of a given key and setting the new value. If the key\n * doesn't exist in the object, it will throw an error.\n * First, we pass an updater function, a property key\n * (usually a string) and extra arguments to apply to\n * said function; and then we get a function that\n * accepts the object to update.\n *\n * **Note for TypeScript users**: This partially applied\n * version is a bit limited in terms of type inference\n * and checking, and the return type of the updater\n * function **MUST** be **EXACTLY THE SAME** as the\n * type of the property value inside the object.\n * You can help TypeScript by being explicit about\n * the updater's parameter types, and you can also\n * describe the generic type of `update` as follows:\n * `update<\"key\", [...a], T>(f, \"key\", ...a)(obj);`\n * @example\n * const changeVersion = (n: string, v: number) =>\n *   n.replace(/\\d+/, v);\n * const game: Game = {\n *   releaseYear: 1998,\n *   name: \"Resident Evil 3\",\n *   replayable: true\n * };\n *\n * // Original object mutates!\n * update(inc, \"releaseYear\")(game);\n * update(changeVersion, \"name\", 7)(game);\n * //> Game { releaseYear: 1999\n * //>      , name: \"Resident Evil 7\"\n * //>      , replayable: true }\n * @see {@link assoc}\n * @throws {TypeError} - When the provided key doesn't exist in the object.\n * @param {function(val: T, ...args: A): T} func - Updater function.\n * @param {K extends PropertyKey}           key  - A key in the object.\n * @param {A extends any[]}                 args - Extra arguments for `func`.\n * @return {function(obj: O extends Record<K, T>): O}\n * Setter that returns the object after mutating the property's value.\n */\nexport function update<K extends PropertyKey, A extends any[], T>(\n  func: (val: T, ...args: A) => T,\n  key: K,\n  ...args: A\n) {\n  return function update__<O extends Record<K, T>>(obj: O): O {\n    if (!Object.prototype.hasOwnProperty.call(obj, key)) {\n      throw new TypeError(`[update]: Key \"${key}\" doesn't exist in the object.`);\n    }\n\n    obj[key] = func(obj[key], ...args) as O[K];\n\n    return obj;\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/oop/update.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 126,
+    "kind": "function",
+    "name": "update",
+    "memberof": "src/oop/update.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/oop/update.ts~update",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/oop/update.ts",
+    "importStyle": "{update}",
+    "description": "Updates an object by applying a function to the value\nof a given key and setting the new value. If the key\ndoesn't exist in the object, it will throw an error.\nFirst, we pass an updater function, a property key\n(usually a string) and extra arguments to apply to\nsaid function; and then we get a function that\naccepts the object to update.\n\n**Note for TypeScript users**: This partially applied\nversion is a bit limited in terms of type inference\nand checking, and the return type of the updater\nfunction **MUST** be **EXACTLY THE SAME** as the\ntype of the property value inside the object.\nYou can help TypeScript by being explicit about\nthe updater's parameter types, and you can also\ndescribe the generic type of `update` as follows:\n`update<\"key\", [...a], T>(f, \"key\", ...a)(obj);`",
+    "examples": [
+      "const changeVersion = (n: string, v: number) =>\n  n.replace(/\\d+/, v);\nconst game: Game = {\n  releaseYear: 1998,\n  name: \"Resident Evil 3\",\n  replayable: true\n};\n\n// Original object mutates!\nupdate(inc, \"releaseYear\")(game);\nupdate(changeVersion, \"name\", 7)(game);\n//> Game { releaseYear: 1999\n//>      , name: \"Resident Evil 7\"\n//>      , replayable: true }"
+    ],
+    "see": [
+      "{@link assoc}"
+    ],
+    "lineNumber": 55,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "function(val: T, ...args: A): T"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "func",
+        "description": "Updater function."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "K extends PropertyKey"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "A key in the object."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "A extends any[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "args",
+        "description": "Extra arguments for `func`."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(obj: O extends Record<K, T>): O"
+      ],
+      "spread": false,
+      "description": "Setter that returns the object after mutating the property's value."
+    },
+    "throws": [
+      {
+        "types": [
+          "TypeError"
+        ],
+        "description": "When the provided key doesn't exist in the object."
+      }
+    ]
+  },
+  {
+    "__docId__": 127,
+    "kind": "file",
+    "name": "src/text/case.ts",
+    "content": "import {chars, map, unchars, unwords, words} from \"../\";\n\nconst ALPHA_PATTERN = /\\W/g;\n\n/**\n * @desc\n * Upper-case the first character and the rest get converted to lower-case.\n *\n * **NOTE**: For now, this function only upper-cases the first character\n * of the string regardless of if it's a letter or not.\n * @example\n * capitalize(\"cthULhu\"); //> \"Cthulhu\"\n * capitalize(\"nyarlathotep!\"); //> \"Nyarlathotep!\"\n * @todo Ensure that something like capitalize(\"__aBC\") returns \"__Abc\"\n * @todo Provide an optional \"locale\" argument for using .toLocaleUppercase()\n * @see {@link titleCase}\n * @param {string} sentence - The string to capitalize.\n * @return {string}         - The sentence which was capitalized.\n */\nexport function capitalize(sentence: string): string {\n  return sentence.length > 0\n  ? sentence[0].toUpperCase() + sentence.slice(1).toLowerCase()\n  : sentence.toUpperCase();\n}\n\n/**\n * @desc\n * Capitalizes all the words in a sentence. It does so by\n * calling {@link capitalize} on each word (separated by\n * spaces) and then joining them again with a space.\n * @example\n * titleCase(\"mediocrity knows nothing higher than itself\");\n * //> \"Mediocrity Knows Nothing Higher Than Itself\"\n *\n * titleCase(\"THE  SHADOW OVER -innsmouth.\");\n * //> \"The Shadow Over -innsmouth.\"\n * @todo Performance analysis vs using RegExp replace.\n * @see {@link capitalize}\n * @param {string} text - The sentence to title-case.\n * @return {string}      - The title-cased sentence.\n */\nexport function titleCase(text: string): string {\n  return unwords(map(capitalize)(words(text)));\n}\n\nfunction _flipCase(char: string): string {\n  return char === char.toLowerCase()\n    ? char.toUpperCase()\n    : char.toLowerCase();\n}\n\n/**\n * @desc\n * Converts lowercase characters into uppercase and viceversa.\n * Works for single-character strings as well for multi-character.\n * @example\n * flipCase(\"SHOUT\"); //> \"shout\"\n * flipCase(\"cRaZy\"); //> \"CrAzy\"\n * flipCase(\"a\"); //> \"A\"\n * flipCase(\"\"); //> \"\"\n * @todo Performance analysis vs using RegExp replace.\n * @param {string} text - The string to flip-case.\n * @return {string}     - The flip-cased string.\n */\nexport function flipCase(text: string): string {\n  return unchars(map(_flipCase)(chars(text)));\n}\n\n/**\n * @desc\n * Case-insensitive **equality test** for two strings. If the option\n * for ignoring non-alphanumeric characters is enabled, then\n * RegExp will remove them from both strings in order to\n * perform a more lenient case-insensitive comparison,\n * but this will also ignore characters like ä, á, etc.\n * @example\n * caselessEq(\"_a_B_c\", \"AbC\", false); //> false\n * caselessEq(\"_a_B_c\", \"AbC\", true); //> true\n * caselessEq(\"dog!\", \"DOG!\"); //> true\n * caselessEq(\"\", \"\"); //> true\n * @param {string} a - Left-side string for comparison.\n * @param {string} b - Right-side string for comparison.\n * @param {boolean} [alpha=false]\n * Ignore non-alphanumerics.\n * @return {boolean} - Result of case-insensitive comparison between two strings.\n */\nexport function caselessEq(a: string, b: string, alpha: boolean = false): boolean {\n  if (a === \"\" && b === \"\") {\n    return true;\n  } else if (alpha) {\n    a = a.replace(ALPHA_PATTERN, \"\");\n    b = b.replace(ALPHA_PATTERN, \"\");\n  }\n\n  return a.toLowerCase() === b.toLowerCase();\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/case.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 128,
+    "kind": "variable",
+    "name": "ALPHA_PATTERN",
+    "memberof": "src/text/case.ts",
+    "static": true,
+    "longname": "src/text/case.ts~ALPHA_PATTERN",
+    "access": "public",
+    "export": false,
+    "importPath": "kogu/src/text/case.ts",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 129,
+    "kind": "function",
+    "name": "capitalize",
+    "memberof": "src/text/case.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/case.ts~capitalize",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/case.ts",
+    "importStyle": "{capitalize}",
+    "description": "Upper-case the first character and the rest get converted to lower-case.\n\n**NOTE**: For now, this function only upper-cases the first character\nof the string regardless of if it's a letter or not.",
+    "examples": [
+      "capitalize(\"cthULhu\"); //> \"Cthulhu\"\ncapitalize(\"nyarlathotep!\"); //> \"Nyarlathotep!\""
+    ],
+    "see": [
+      "{@link titleCase}"
+    ],
+    "lineNumber": 28,
+    "todo": [
+      "Ensure that something like capitalize(\"__aBC\") returns \"__Abc\"",
+      "Provide an optional \"locale\" argument for using .toLocaleUppercase()"
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "sentence",
+        "description": "The string to capitalize."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "The sentence which was capitalized."
+    }
+  },
+  {
+    "__docId__": 130,
+    "kind": "function",
+    "name": "titleCase",
+    "memberof": "src/text/case.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/case.ts~titleCase",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/case.ts",
+    "importStyle": "{titleCase}",
+    "description": "Capitalizes all the words in a sentence. It does so by\ncalling {@link capitalize} on each word (separated by\nspaces) and then joining them again with a space.",
+    "examples": [
+      "titleCase(\"mediocrity knows nothing higher than itself\");\n//> \"Mediocrity Knows Nothing Higher Than Itself\"\n\ntitleCase(\"THE  SHADOW OVER -innsmouth.\");\n//> \"The Shadow Over -innsmouth.\""
+    ],
+    "see": [
+      "{@link capitalize}"
+    ],
+    "lineNumber": 59,
+    "todo": [
+      "Performance analysis vs using RegExp replace."
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": "The sentence to title-case."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "The title-cased sentence."
+    }
+  },
+  {
+    "__docId__": 131,
+    "kind": "function",
+    "name": "_flipCase",
+    "memberof": "src/text/case.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/case.ts~_flipCase",
+    "access": "private",
+    "export": false,
+    "importPath": "kogu/src/text/case.ts",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 46,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "char",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 132,
+    "kind": "function",
+    "name": "flipCase",
+    "memberof": "src/text/case.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/case.ts~flipCase",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/case.ts",
+    "importStyle": "{flipCase}",
+    "description": "Converts lowercase characters into uppercase and viceversa.\nWorks for single-character strings as well for multi-character.",
+    "examples": [
+      "flipCase(\"SHOUT\"); //> \"shout\"\nflipCase(\"cRaZy\"); //> \"CrAzy\"\nflipCase(\"a\"); //> \"A\"\nflipCase(\"\"); //> \"\""
+    ],
+    "lineNumber": 100,
+    "todo": [
+      "Performance analysis vs using RegExp replace."
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": "The string to flip-case."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "The flip-cased string."
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "function",
+    "name": "caselessEq",
+    "memberof": "src/text/case.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/case.ts~caselessEq",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/case.ts",
+    "importStyle": "{caselessEq}",
+    "description": "Case-insensitive **equality test** for two strings. If the option\nfor ignoring non-alphanumeric characters is enabled, then\nRegExp will remove them from both strings in order to\nperform a more lenient case-insensitive comparison,\nbut this will also ignore characters like ä, á, etc.",
+    "examples": [
+      "caselessEq(\"_a_B_c\", \"AbC\", false); //> false\ncaselessEq(\"_a_B_c\", \"AbC\", true); //> true\ncaselessEq(\"dog!\", \"DOG!\"); //> true\ncaselessEq(\"\", \"\"); //> true"
+    ],
+    "lineNumber": 135,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": "Left-side string for comparison."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "b",
+        "description": "Right-side string for comparison."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "false",
+        "defaultRaw": false,
+        "name": "alpha",
+        "description": "Ignore non-alphanumerics."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "Result of case-insensitive comparison between two strings."
+    }
+  },
+  {
+    "__docId__": 134,
+    "kind": "file",
+    "name": "src/text/char.ts",
+    "content": "/**\n * @desc\n * Returns the character code of the first character in a string.\n * If the length of the string is 0, an error will be thrown\n * (this behaviour can potentially change in a future release).\n *\n * **Note**: There are some characters that take up 2 codes, thus\n * making the string have a length of 2. In this case, the function\n * will only return the first code.\n * @example\n * ord(\"A\"); //> 65\n * ord(\"10\"); // 49\n * ord(\"\");\n * //! Uncaught Error: [ord]: char\n * string must not be of length 0.\n *\n * pipe(chars, map(ord))(\"😈\");\n * //> [55357, 56840]\n * @see {@link chr}\n * @throws {Error}      - When the string is empty.\n * @param {string} char - The string that has the character.\n * @return {number}     - Character code as a number.\n */\nexport function ord(char: string): number {\n  if (char.length === 0) {\n    throw new Error(\"[ord]: char string must not be of length 0.\");\n  }\n\n  return char.charCodeAt(0);\n}\n\n/**\n * @desc\n * Takes a number and returns the character it represents as a\n * single-character string. It serves as an alias to the native\n * function `String.fromCharCode`, except it only accepts one\n * argument, thus making it **incompatible** with characters\n * that take up 2 codes, for example, emojis.\n * @example\n * chr(230); //> æ\n * chr(65); //> A\n *\n * const joy = [\n *   108, 105, 116, 32,\n *   55357, 56834 // emoji\n * ];\n *\n * pipe(map(chr), unchars)(joy);\n * //> \"lit 😂\"\n * @see {@link ord}\n * @param {number} code - The code to convert to string\n * @return {string}     - The character it represents.\n */\nexport function chr(code: number): string {\n  return String.fromCharCode(code);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/char.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 135,
+    "kind": "function",
+    "name": "ord",
+    "memberof": "src/text/char.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/char.ts~ord",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/char.ts",
+    "importStyle": "{ord}",
+    "description": "Returns the character code of the first character in a string.\nIf the length of the string is 0, an error will be thrown\n(this behaviour can potentially change in a future release).\n\n**Note**: There are some characters that take up 2 codes, thus\nmaking the string have a length of 2. In this case, the function\nwill only return the first code.",
+    "examples": [
+      "ord(\"A\"); //> 65\nord(\"10\"); // 49\nord(\"\");\n//! Uncaught Error: [ord]: char\nstring must not be of length 0.\n\npipe(chars, map(ord))(\"😈\");\n//> [55357, 56840]"
+    ],
+    "see": [
+      "{@link chr}"
+    ],
+    "lineNumber": 34,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "char",
+        "description": "The string that has the character."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "Character code as a number."
+    },
+    "throws": [
+      {
+        "types": [
+          "Error"
+        ],
+        "description": "When the string is empty."
+      }
+    ]
+  },
+  {
+    "__docId__": 136,
+    "kind": "function",
+    "name": "chr",
+    "memberof": "src/text/char.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/char.ts~chr",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/char.ts",
+    "importStyle": "{chr}",
+    "description": "Takes a number and returns the character it represents as a\nsingle-character string. It serves as an alias to the native\nfunction `String.fromCharCode`, except it only accepts one\nargument, thus making it **incompatible** with characters\nthat take up 2 codes, for example, emojis.",
+    "examples": [
+      "chr(230); //> æ\nchr(65); //> A\n\nconst joy = [\n  108, 105, 116, 32,\n  55357, 56834 // emoji\n];\n\npipe(map(chr), unchars)(joy);\n//> \"lit 😂\""
+    ],
+    "see": [
+      "{@link ord}"
+    ],
+    "lineNumber": 72,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "code",
+        "description": "The code to convert to string"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "The character it represents."
+    }
+  },
+  {
+    "__docId__": 137,
+    "kind": "file",
+    "name": "src/text/index.ts",
+    "content": "export * from \"./trunc\";\nexport * from \"./surround\";\nexport * from \"./whitespace\";\nexport * from \"./case\";\nexport * from \"./join\";\nexport * from \"./split\";\nexport * from \"./query\";\nexport * from \"./char\";\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/index.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 138,
+    "kind": "file",
+    "name": "src/text/join.ts",
+    "content": "/**\n * @desc\n * Condensation of a list of strings into a single\n * string using a specific separator of type string.\n * This separator is not optional and has no default.\n *\n * If you use this function with a singleton array,\n * the result will be the only string it contains.\n * Whereas an empty array will produce an empty string.\n * @example\n * const listify = join(\", \");\n *\n * listify([\"Poe\", \"Lovecraft\", \"King\"]);\n * //> \"Poe, Lovecraft, King\"\n *\n * join(\" - \")([\"Singleton\"]); //> \"Singleton\"\n * join(\" <> \")([]); //> \"\"\n * @todo Let the user specify the first and last separators.\n * @see {@link split}\n * @param {string} joiner - The string separator.\n * @return {function(strings: string[]): string}\n * The joiner function that receives a list of strings.\n */\nexport function join(joiner: string) {\n  return function join__(strings: string[]): string {\n    return strings.join(joiner);\n  }\n}\n\n/**\n * @desc\n * Takes a list of strings and joins them using a new-line\n * character `\\n`. If it finds **adjacent empty strings**,\n * the function **will not** condense them into a single\n * new-line character; this behaviour can't be changed.\n * @example\n * const haiku: string[] = [\n *   \"The lamp once out\"\n *   \"Cool stars enter\"\n *   \"The window frame.\"\n * ];\n *\n * unlines(haiku);\n * //> \"The lamp once out\\n\n * //>  Cool stars enter\\n\n * //>  The window frame.\"\n *\n * unlines([\"One\"]); //> \"One\"\n * unlines([]); //> \"\"\n * @see {@link lines}\n * @param {string[]} lines - The array of lines to join.\n * @return {string}        - A string containing all the lines.\n */\nexport function unlines(lines: string[]): string {\n  return join(\"\\n\")(lines);\n}\n\n/**\n * @desc\n * Takes a list of strings and joins them using a space character.\n * If it finds **adjacent empty strings**, this function won't\n * condense them into a single space, but rather convert each\n * one into a space; this behaviour can't be changed.\n * @example\n * unwords([\"The\", \"Quick\", \"Brown\", \"Fox\"]);\n * //> \"The Quick Brown Fox\"\n *\n * unwords([\"Alone\"]); //> \"Alone\"\n *\n * unwords([\"\", \"\", \"Trailing\", \"\", \"Space\"]);\n * //> \"  Trailing  Space\"\n * @see {@link words}\n * @param {string[]} words - The array of words to join.\n * @return {string}        - A string containing all the words.\n */\nexport function unwords(words: string[]): string {\n  return join(\" \")(words);\n}\n\n/**\n * @desc\n * Takes a list of characters and joins them into a string.\n * @example\n * unchars([\"A\", \"B\", \"C\"]); //> \"ABC\"\n * unchars([\"A\"]); //> \"A\"\n * unchars([]); //> \"\"\n *\n * // However, it doesn't only work\n * // on single-character strings...\n * unchars([\"The\", \"Beatles\"]);\n * //> \"TheBeatles\"\n * @see {@link chars}\n * @param {string[]} chars - The array of characters to join.\n * @return {string}        - A string containing all the characters.\n */\nexport function unchars(chars: string[]): string {\n  return join(\"\")(chars);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/join.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 139,
+    "kind": "function",
+    "name": "join",
+    "memberof": "src/text/join.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/join.ts~join",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/join.ts",
+    "importStyle": "{join}",
+    "description": "Condensation of a list of strings into a single\nstring using a specific separator of type string.\nThis separator is not optional and has no default.\n\nIf you use this function with a singleton array,\nthe result will be the only string it contains.\nWhereas an empty array will produce an empty string.",
+    "examples": [
+      "const listify = join(\", \");\n\nlistify([\"Poe\", \"Lovecraft\", \"King\"]);\n//> \"Poe, Lovecraft, King\"\n\njoin(\" - \")([\"Singleton\"]); //> \"Singleton\"\njoin(\" <> \")([]); //> \"\""
+    ],
+    "see": [
+      "{@link split}"
+    ],
+    "lineNumber": 32,
+    "todo": [
+      "Let the user specify the first and last separators."
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "joiner",
+        "description": "The string separator."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(strings: string[]): string"
+      ],
+      "spread": false,
+      "description": "The joiner function that receives a list of strings."
+    }
+  },
+  {
+    "__docId__": 140,
+    "kind": "function",
+    "name": "unlines",
+    "memberof": "src/text/join.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/join.ts~unlines",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/join.ts",
+    "importStyle": "{unlines}",
+    "description": "Takes a list of strings and joins them using a new-line\ncharacter `\\n`. If it finds **adjacent empty strings**,\nthe function **will not** condense them into a single\nnew-line character; this behaviour can't be changed.",
+    "examples": [
+      "const haiku: string[] = [\n  \"The lamp once out\"\n  \"Cool stars enter\"\n  \"The window frame.\"\n];\n\nunlines(haiku);\n//> \"The lamp once out\\n\n//>  Cool stars enter\\n\n//>  The window frame.\"\n\nunlines([\"One\"]); //> \"One\"\nunlines([]); //> \"\""
+    ],
+    "see": [
+      "{@link lines}"
+    ],
+    "lineNumber": 71,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "lines",
+        "description": "The array of lines to join."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "A string containing all the lines."
+    }
+  },
+  {
+    "__docId__": 141,
+    "kind": "function",
+    "name": "unwords",
+    "memberof": "src/text/join.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/join.ts~unwords",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/join.ts",
+    "importStyle": "{unwords}",
+    "description": "Takes a list of strings and joins them using a space character.\nIf it finds **adjacent empty strings**, this function won't\ncondense them into a single space, but rather convert each\none into a space; this behaviour can't be changed.",
+    "examples": [
+      "unwords([\"The\", \"Quick\", \"Brown\", \"Fox\"]);\n//> \"The Quick Brown Fox\"\n\nunwords([\"Alone\"]); //> \"Alone\"\n\nunwords([\"\", \"\", \"Trailing\", \"\", \"Space\"]);\n//> \"  Trailing  Space\""
+    ],
+    "see": [
+      "{@link words}"
+    ],
+    "lineNumber": 102,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "words",
+        "description": "The array of words to join."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "A string containing all the words."
+    }
+  },
+  {
+    "__docId__": 142,
+    "kind": "function",
+    "name": "unchars",
+    "memberof": "src/text/join.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/join.ts~unchars",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/join.ts",
+    "importStyle": "{unchars}",
+    "description": "Takes a list of characters and joins them into a string.",
+    "examples": [
+      "unchars([\"A\", \"B\", \"C\"]); //> \"ABC\"\nunchars([\"A\"]); //> \"A\"\nunchars([]); //> \"\"\n\n// However, it doesn't only work\n// on single-character strings...\nunchars([\"The\", \"Beatles\"]);\n//> \"TheBeatles\""
+    ],
+    "see": [
+      "{@link chars}"
+    ],
+    "lineNumber": 131,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string[]"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "chars",
+        "description": "The array of characters to join."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "A string containing all the characters."
+    }
+  },
+  {
+    "__docId__": 143,
+    "kind": "file",
+    "name": "src/text/query.ts",
+    "content": "import {identity} from \"../\";\n\n/**\n * @desc\n * Takes a dictionary (object literal) where the keys are the\n * parameters, and their values are assigned to the parameter\n * after the `=` sign, and returns a **query string** that\n * can be appended to a URL for example.\n *\n * You can specify whether you want to use `encodeURIComponent`\n * on the key-value pairs or not, it's `true` by default.\n * @example\n * query({\n *   limit: 10,\n *   author: 5,\n *   order: true\n * });\n * //> \"?limit=10&author=5&order=true\"\n *\n * query({ part: \" snippet\" });\n * //> \"?part=%20snippet\"\n * query({}); //> \"\"\n * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent\n * @param {object}  params     - Object literal with the params.\n * @param {boolean} [euc=true] - Option to use encodeURIComponent.\n * @return {string}            - The standalone query string.\n */\nexport function query(params: Record<string, any>, euc: boolean = true): string {\n  const encoder = euc ? encodeURIComponent : identity;\n  let result = \"\";\n\n  for (const key in params) {\n    /* istanbul ignore next */\n    if (Object.prototype.hasOwnProperty.call(params, key)) {\n      const [param, value] = [key.toString(), params[key].toString()];\n\n      result += result === \"\" ? \"?\" : \"&\";\n      result += `${encoder(param)}=${encoder(value)}`;\n    }\n  }\n\n  return result;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/query.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 144,
+    "kind": "function",
+    "name": "query",
+    "memberof": "src/text/query.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/query.ts~query",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/query.ts",
+    "importStyle": "{query}",
+    "description": "Takes a dictionary (object literal) where the keys are the\nparameters, and their values are assigned to the parameter\nafter the `=` sign, and returns a **query string** that\ncan be appended to a URL for example.\n\nYou can specify whether you want to use `encodeURIComponent`\non the key-value pairs or not, it's `true` by default.",
+    "examples": [
+      "query({\n  limit: 10,\n  author: 5,\n  order: true\n});\n//> \"?limit=10&author=5&order=true\"\n\nquery({ part: \" snippet\" });\n//> \"?part=%20snippet\"\nquery({}); //> \"\""
+    ],
+    "see": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent"
+    ],
+    "lineNumber": 39,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "params",
+        "description": "Object literal with the params."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "true",
+        "defaultRaw": true,
+        "name": "euc",
+        "description": "Option to use encodeURIComponent."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "The standalone query string."
+    }
+  },
+  {
+    "__docId__": 145,
+    "kind": "file",
+    "name": "src/text/split.ts",
+    "content": "/**\n * @desc\n * Returns a splitter function that separates text into\n * an array of substrings given a certain pattern which\n * can be either a string or a RegExp.\n * @example\n * split(/s+/)(\"A    quiet        place\");\n * //> [\"A\", \"quiet\", \"place\"]\n *\n * split(\" - \")(\"The - Best-Day - Ever\");\n * //> [\"The\", \"Best-Day\", \"Ever\"]\n * @see {@link join}\n * @param {string|RegExp} separator - The pattern that splits the text.\n * @return {function(text:string):string[]}\n * A splitter function that receives the text.\n */\nexport function split(separator: string | RegExp) {\n  return function split__(text: string): string[] {\n    return text.split(separator);\n  }\n}\n\n/**\n * @desc\n * Breaks down a block of text into an array of individual lines.\n * It uses a RegExp pattern `\\r|\\n` to split the text, and it has\n * an optional flag called `trim` that makes sure there are no\n * empty new-line characters at the start and end of the string.\n *\n * **Note**: This function doesn't condense adjacent new-line characters.\n * @example\n * const hickey: string = `\n * Simplicity is hard work.\n * But, there's a huge payoff.\n * `;\n *\n * lines(hickey);\n * //> [ \"Simplicity is hard work.\",\n * //> , \"But, there's a huge payoff.\" ]\n *\n * // If specified, it won't trim the trailing\n * // new-line characters I left on purpose.\n * lines(hickey, false).length; //> 4\n * @see {@link unlines}\n * @param {string}  text        - The text that contains the lines to obtain.\n * @param {boolean} [trim=true] - Option to remove blank lines from both ends.\n * @return {string[]}           - A list of string representing the lines.\n */\nexport function lines(text: string, trim: boolean = true): string[] {\n  if (text.length === 0) {\n    return [];\n  }\n\n  const trimPattern: RegExp = /^(\\n)+|(\\n)+$/g;\n\n  return split(/[\\n\\r]/)(trim\n    ? text.replace(trimPattern, \"\")\n    : text);\n}\n\n/**\n * @desc\n * Breaks down a string into an array of individual words.\n * It uses a single space as its separator, so you may\n * encounter some unexpected behaviour. In a future\n * release there may be an option to use a RegExp\n * (`\\s+`) as its separator instead.\n * @example\n * words(\"At the mountains of madness.\");\n * //> [\"At\", \"the\", \"mountains\", \"of\", \"madness.\"]\n *\n * words(\"--Left  Right--\");\n * //> [\"--Left\", \"\", \"Right--\"]\n *\n * words(\"  \"); //> [\"\", \"\", \"\"]\n * words(\"\"); //> []\n * @see {@link unwords}\n * @param {string} text - The text which will be separated into words.\n * @return {string[]}   - An array of words.\n */\nexport function words(text: string): string[] {\n  if (text.length === 0) {\n    return [];\n  }\n\n  return split(\" \")(text);\n}\n\n/**\n * @desc\n * Breaks down a whole string into a list of strings\n * with just one character each. It uses an empty\n * string as its separator.\n * @example\n * chars(\"I'm\"); //> [\"I\", \"'\", \"m\"]\n * chars(\"\\n\\t\"); //> [\"\\n, \"\\t\"]\n * chars(\"\"); //> //> []\n * @see {@link unchars}\n * @param {string} text - A sentence to break down.\n * @return {string[]}   - The list of character strings.\n */\nexport function chars(text: string): string[] {\n  return split(\"\")(text);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/split.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 146,
+    "kind": "function",
+    "name": "split",
+    "memberof": "src/text/split.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/split.ts~split",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/split.ts",
+    "importStyle": "{split}",
+    "description": "Returns a splitter function that separates text into\nan array of substrings given a certain pattern which\ncan be either a string or a RegExp.",
+    "examples": [
+      "split(/s+/)(\"A    quiet        place\");\n//> [\"A\", \"quiet\", \"place\"]\n\nsplit(\" - \")(\"The - Best-Day - Ever\");\n//> [\"The\", \"Best-Day\", \"Ever\"]"
+    ],
+    "see": [
+      "{@link join}"
+    ],
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string",
+          "RegExp"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "separator",
+        "description": "The pattern that splits the text."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(text:string):string[]"
+      ],
+      "spread": false,
+      "description": "A splitter function that receives the text."
+    }
+  },
+  {
+    "__docId__": 147,
+    "kind": "function",
+    "name": "lines",
+    "memberof": "src/text/split.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/split.ts~lines",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/split.ts",
+    "importStyle": "{lines}",
+    "description": "Breaks down a block of text into an array of individual lines.\nIt uses a RegExp pattern `\\r|\\n` to split the text, and it has\nan optional flag called `trim` that makes sure there are no\nempty new-line characters at the start and end of the string.\n\n**Note**: This function doesn't condense adjacent new-line characters.",
+    "examples": [
+      "const hickey: string = `\nSimplicity is hard work.\nBut, there's a huge payoff.\n`;\n\nlines(hickey);\n//> [ \"Simplicity is hard work.\",\n//> , \"But, there's a huge payoff.\" ]\n\n// If specified, it won't trim the trailing\n// new-line characters I left on purpose.\nlines(hickey, false).length; //> 4"
+    ],
+    "see": [
+      "{@link unlines}"
+    ],
+    "lineNumber": 66,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": "The text that contains the lines to obtain."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "true",
+        "defaultRaw": true,
+        "name": "trim",
+        "description": "Option to remove blank lines from both ends."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": "A list of string representing the lines."
+    }
+  },
+  {
+    "__docId__": 148,
+    "kind": "function",
+    "name": "words",
+    "memberof": "src/text/split.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/split.ts~words",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/split.ts",
+    "importStyle": "{words}",
+    "description": "Breaks down a string into an array of individual words.\nIt uses a single space as its separator, so you may\nencounter some unexpected behaviour. In a future\nrelease there may be an option to use a RegExp\n(`\\s+`) as its separator instead.",
+    "examples": [
+      "words(\"At the mountains of madness.\");\n//> [\"At\", \"the\", \"mountains\", \"of\", \"madness.\"]\n\nwords(\"--Left  Right--\");\n//> [\"--Left\", \"\", \"Right--\"]\n\nwords(\"  \"); //> [\"\", \"\", \"\"]\nwords(\"\"); //> []"
+    ],
+    "see": [
+      "{@link unwords}"
+    ],
+    "lineNumber": 103,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": "The text which will be separated into words."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": "An array of words."
+    }
+  },
+  {
+    "__docId__": 149,
+    "kind": "function",
+    "name": "chars",
+    "memberof": "src/text/split.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/split.ts~chars",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/split.ts",
+    "importStyle": "{chars}",
+    "description": "Breaks down a whole string into a list of strings\nwith just one character each. It uses an empty\nstring as its separator.",
+    "examples": [
+      "chars(\"I'm\"); //> [\"I\", \"'\", \"m\"]\nchars(\"\\n\\t\"); //> [\"\\n, \"\\t\"]\nchars(\"\"); //> //> []"
+    ],
+    "see": [
+      "{@link unchars}"
+    ],
+    "lineNumber": 130,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": "A sentence to break down."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string[]"
+      ],
+      "spread": false,
+      "description": "The list of character strings."
+    }
+  },
+  {
+    "__docId__": 150,
+    "kind": "file",
+    "name": "src/text/surround.ts",
+    "content": "/**\n * @desc\n * Surrounds a string with the provided left and right substrings.\n * If the right substring wasn't provided, the left one will be used.\n * @example\n * const li = surround(\"<li>\", \"</li>\");\n *\n * map(li)(range(0, 1));\n * //> [\"<li>0</li>\", \"<li>1</li>\"]\n *\n * surround(\"__\")(\"proto\"); //> \"__proto__\"\n * @param {string} left    - Element to place on the left.\n * @param {string} [right] - Substring to place on the right (optional).\n * @return {function(text: string): string}\n * A function that receives the text to surround.\n */\nexport function surround(left: string, right?: string) {\n  return function surround__(text: string): string {\n    if (right === void 0) { right = left }\n\n    return left + text + right;\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/surround.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 151,
+    "kind": "function",
+    "name": "surround",
+    "memberof": "src/text/surround.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/surround.ts~surround",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/surround.ts",
+    "importStyle": "{surround}",
+    "description": "Surrounds a string with the provided left and right substrings.\nIf the right substring wasn't provided, the left one will be used.",
+    "examples": [
+      "const li = surround(\"<li>\", \"</li>\");\n\nmap(li)(range(0, 1));\n//> [\"<li>0</li>\", \"<li>1</li>\"]\n\nsurround(\"__\")(\"proto\"); //> \"__proto__\""
+    ],
+    "lineNumber": 27,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "left",
+        "description": "Element to place on the left."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "right",
+        "description": "Substring to place on the right (optional)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(text: string): string"
+      ],
+      "spread": false,
+      "description": "A function that receives the text to surround."
+    }
+  },
+  {
+    "__docId__": 152,
+    "kind": "file",
+    "name": "src/text/trunc.ts",
+    "content": "/**\n * @desc\n * Truncates a string, doesn't exceed the permitted length\n * and appends `...` at the end unless specified otherwise.\n * If the length of the terminator exceeds that of the\n * maximum length, or the limit is `<= 0`, then you\n * will get an empty string in return.\n *\n * When the length of the limit text is greater than or\n * equal to the text, you will get the original text.\n * @example\n * const dagon = \"It shall not find me. God, that hand! The window! The window!\";\n *\n * trunc(34)(dagon); //> \"It shall not find me. God, that...\"\n * trunc(11, \"!!!\")(dagon); //> \"It shall!!!\"\n * trunc(3)(dagon); //> \"...\"\n * trunc(2)(dagon); //> \"\"\n * @param {number} limit          - The maximum amount of characters.\n * @param {string} [ending=\"...\"] - Custom string terminator.\n * @return {function(text: string): string}\n * A function that receives the string to truncate.\n */\nexport function trunc(limit: number, ending: string = \"...\") {\n  return function trunc__(text: string): string {\n    const [textLen, endingLen] = [text.length, ending.length];\n\n    if (limit >= textLen) {\n      return text;\n    } else if (limit === endingLen) {\n      return ending;\n    } else if (limit < endingLen) {\n      return \"\";\n    } else {\n      return text.slice(0, limit - endingLen) + ending;\n    }\n  }\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/trunc.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 153,
+    "kind": "function",
+    "name": "trunc",
+    "memberof": "src/text/trunc.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/trunc.ts~trunc",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/trunc.ts",
+    "importStyle": "{trunc}",
+    "description": "Truncates a string, doesn't exceed the permitted length\nand appends `...` at the end unless specified otherwise.\nIf the length of the terminator exceeds that of the\nmaximum length, or the limit is `<= 0`, then you\nwill get an empty string in return.\n\nWhen the length of the limit text is greater than or\nequal to the text, you will get the original text.",
+    "examples": [
+      "const dagon = \"It shall not find me. God, that hand! The window! The window!\";\n\ntrunc(34)(dagon); //> \"It shall not find me. God, that...\"\ntrunc(11, \"!!!\")(dagon); //> \"It shall!!!\"\ntrunc(3)(dagon); //> \"...\"\ntrunc(2)(dagon); //> \"\""
+    ],
+    "lineNumber": 33,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "limit",
+        "description": "The maximum amount of characters."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "\"...\"",
+        "defaultRaw": "...",
+        "name": "ending",
+        "description": "Custom string terminator."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(text: string): string"
+      ],
+      "spread": false,
+      "description": "A function that receives the string to truncate."
+    }
+  },
+  {
+    "__docId__": 154,
+    "kind": "file",
+    "name": "src/text/whitespace.ts",
+    "content": "const ALL_WHITESPACE_PATTERN = /^\\s*$/;\nconst TRIM_ALL_PATTERN = /^\\s+|\\s+$/g;\n\n/**\n * @desc\n * Tells you whether the string you passed contains\n * only whitespace characters or not (from beginning\n * to end) using a `/^\\s*$/` RegExp.\n * @example\n * isBlank(\" \\r\\t\\n \"); //> true\n * isBlank(\" Hey    \"); //> false\n * isBlank(\"     \"); //> true\n * @param {string} text - The string to test.\n * @return {boolean}    - The whitespace test result.\n */\nexport function isBlank(text: string): boolean {\n  return ALL_WHITESPACE_PATTERN.test(text);\n}\n\n/**\n * @desc\n * Trims all whitespace from both ends of a string using\n * a RegExp (`/^\\s+|\\s+$/`) to replace it with nothing.\n * @example\n * trim(\"   born to be wild \"); //> \"born to be wild\"\n * trim(\"\\t\\nNew line!\"); //> \"New line!\"\n * trim(\"Untouchable\"); //> \"Untouchable\"\n * @param {string} text - The string to trim.\n * @return {string}     - Trimmed string\n */\nexport function trim(text: string): string {\n  return text.replace(TRIM_ALL_PATTERN, \"\");\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/kogu/kogu/src/text/whitespace.ts",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 155,
+    "kind": "variable",
+    "name": "ALL_WHITESPACE_PATTERN",
+    "memberof": "src/text/whitespace.ts",
+    "static": true,
+    "longname": "src/text/whitespace.ts~ALL_WHITESPACE_PATTERN",
+    "access": "public",
+    "export": false,
+    "importPath": "kogu/src/text/whitespace.ts",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 156,
+    "kind": "variable",
+    "name": "TRIM_ALL_PATTERN",
+    "memberof": "src/text/whitespace.ts",
+    "static": true,
+    "longname": "src/text/whitespace.ts~TRIM_ALL_PATTERN",
+    "access": "public",
+    "export": false,
+    "importPath": "kogu/src/text/whitespace.ts",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 157,
+    "kind": "function",
+    "name": "isBlank",
+    "memberof": "src/text/whitespace.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/whitespace.ts~isBlank",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/whitespace.ts",
+    "importStyle": "{isBlank}",
+    "description": "Tells you whether the string you passed contains\nonly whitespace characters or not (from beginning\nto end) using a `/^\\s*$/` RegExp.",
+    "examples": [
+      "isBlank(\" \\r\\t\\n \"); //> true\nisBlank(\" Hey    \"); //> false\nisBlank(\"     \"); //> true"
+    ],
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": "The string to test."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "The whitespace test result."
+    }
+  },
+  {
+    "__docId__": 158,
+    "kind": "function",
+    "name": "trim",
+    "memberof": "src/text/whitespace.ts",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/text/whitespace.ts~trim",
+    "access": "public",
+    "export": true,
+    "importPath": "kogu/src/text/whitespace.ts",
+    "importStyle": "{trim}",
+    "description": "Trims all whitespace from both ends of a string using\na RegExp (`/^\\s+|\\s+$/`) to replace it with nothing.",
+    "examples": [
+      "trim(\"   born to be wild \"); //> \"born to be wild\"\ntrim(\"\\t\\nNew line!\"); //> \"New line!\"\ntrim(\"Untouchable\"); //> \"Untouchable\""
+    ],
+    "lineNumber": 49,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": "The string to trim."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "Trimmed string"
+    }
+  },
+  {
+    "kind": "index",
+    "content": "## Kōgu 工具\n\n![npm-publish](https://github.com/luishendrix92/kogu/workflows/npm-publish/badge.svg)\n\nUtility library primarily inspired by Clojure's standard library along with some convenient helper functions.\n",
+    "longname": "/home/runner/work/kogu/kogu/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"kogu\",\n  \"version\": \"0.1.3\",\n  \"description\": \"Utility library primarily inspired by Clojure's standard library along with some convenient helper functions.\",\n  \"main\": \"./dist/index.js\",\n  \"types\": \"./dist/index.d.ts\",\n  \"files\": [\n    \"/dist\",\n    \"/bundles\"\n  ],\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/luishendrix92/kogu\"\n  },\n  \"scripts\": {\n    \"commonjs\": \"npm run tslint && tsc\",\n    \"tslint\": \"tslint --project .\",\n    \"test\": \"npm run clean && jest && npm run clean\",\n    \"test:coverage\": \"npm run clean && jest --coverage && npm run clean\",\n    \"clean\": \"rm -rf dist\",\n    \"docs\": \"./node_modules/.bin/esdoc\"\n  },\n  \"author\": \"Luis Lopez <hello@kozmicluis.com>\",\n  \"license\": \"MIT\",\n  \"homepage\": \"http://luishendrix92.github.io/kogu/\",\n  \"devDependencies\": {\n    \"@types/jest\": \"^25.2.1\",\n    \"@types/ramda\": \"^0.26.43\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"esdoc-typescript-plugin\": \"^1.0.1\",\n    \"jest\": \"^23.6.0\",\n    \"ramda\": \"^0.27.0\",\n    \"ts-jest\": \"^23.10.4\",\n    \"tslint\": \"^6.1.1\",\n    \"typescript\": \"^3.8.3\"\n  }\n}\n",
+    "longname": "/home/runner/work/kogu/kogu/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
