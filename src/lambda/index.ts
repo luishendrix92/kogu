@@ -6,3 +6,4 @@ export * from "./compose";
 export * from "./juxt";
 export * from "./types";
 export * from "./thunk";
+export * from "./arity";

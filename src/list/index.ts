@@ -5,3 +5,7 @@ export * from "./singleton";
 export * from "./access";
 export * from "./reverse";
 export * from "./partition";
+export * from "./lcomp";
+export * from "./uncons";
+export * from "./transpose";
+export * from "./frequencies";
